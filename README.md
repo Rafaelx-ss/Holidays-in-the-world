@@ -6,9 +6,9 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `{{DATE}}`  
-> 🌍 **País:** `{{COUNTRY}}`  
-> 🎉 **Festivo:** `{{HOLIDAY_NAME}}`  
+> ✅ **Fecha:** `2024-03-19`  
+> 🌍 **País:** `AO`  
+> 🎉 **Festivo:** `Día del Padre`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
