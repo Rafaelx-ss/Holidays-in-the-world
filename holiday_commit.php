@@ -16,6 +16,19 @@ function loadEnv($path) {
     }
 }
 
+// 📌 Función para convertir código de país a emoji de bandera
+function countryCodeToEmoji($countryCode) {
+    if ($countryCode == "N/A") {
+        return "🏳"; // Bandera blanca si no hay país
+    }
+
+    $emoji = "";
+    foreach (str_split(strtoupper($countryCode)) as $letter) {
+        $emoji .= mb_chr(ord($letter) + 127397);
+    }
+    return $emoji;
+}
+
 // 📌 Cargar variables de entorno desde .env
 loadEnv(__DIR__ . '/.env');
 
@@ -87,6 +100,8 @@ while (!$found && $attempts < $max_attempts) {
         $holiday_name = $holiday['name'];
         $holiday_country_code = $holiday['country'];
         $holiday_country = $country_name;
+        $holiday_flag = countryCodeToEmoji($holiday_country_code);
+        
         
         $found = true;
         echo "✅ Festivo encontrado en intento #$attempts: $holiday_name en $holiday_country\n";
@@ -110,6 +125,7 @@ if (!$found) {
     $holiday_name = "No hay festivos registrados en la base de datos.";
     $holiday_country = "N/A";
     $holiday_country_code = "N/A";
+    $holiday_flag = "🏳";
     echo "❌ No se encontró un festivo después de $max_attempts intentos.\n";
 }
 
@@ -121,6 +137,10 @@ if (file_exists("README.md")) {
     unlink("README.md"); // Elimina el archivo para garantizar que Git detecte el cambio
 }
 
+$year = date("Y");
+$month = date("m");
+$day = date("d");
+
 $readme_template = <<<EOT
 # 🌍 Holidays in the World - Festivos en el Mundo 🎉
 
@@ -131,7 +151,7 @@ $readme_template = <<<EOT
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `$year-$month-$day`  
-> 🌍 **País:** `$holiday_country` ($holiday_country_code)  
+> 🌍 **País:** `$holiday_country $holiday_flag ($holiday_country_code)`  
 > 🎉 **Festivo:** `$holiday_name`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*

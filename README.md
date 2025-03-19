@@ -6,9 +6,9 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2024-03-19`  
-> 🌍 **País:** `Liechtenstein` (LI)  
-> 🎉 **Festivo:** `Día de San José`  
+> ✅ **Fecha:** `2025-03-19`  
+> 🌍 **País:** `United Kingdom 🇬🇧 (GB)`  
+> 🎉 **Festivo:** `Equinoccio de primavera`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
