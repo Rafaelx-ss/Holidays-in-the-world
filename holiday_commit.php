@@ -48,24 +48,28 @@ $country_list_json = file_get_contents($country_list_url);
 $country_list = json_decode($country_list_json, true);
 
 if (!isset($country_list['countries'])) {
-    die("❌ Error: No se pudo obtener la lista de países.\n");
+    die("❌ Error: No se pudo obtener la lista de países. Verifica tu API Key.\n");
 }
 
-// 📌 Mezclar la lista de países y buscar un festivo en hasta 25 intentos
+// 📌 Mezclar la lista de países y buscar un festivo en hasta 50 intentos
 shuffle($country_list['countries']);
 
 $found = false;
 $attempts = 0;
-$max_attempts = 25;
+$max_attempts = 50;
+$days_offset = 0;  // 📅 Si no se encuentra un festivo, buscar en fechas futuras
 
 while (!$found && $attempts < $max_attempts) {
     $random_country = $country_list['countries'][array_rand($country_list['countries'])];
     $country_code = $random_country['code'];
-    
-    echo "🎲 Intento #$attempts - Consultando festivos en: $random_country[name] ($country_code)\n";
+
+    // 📅 Si no encuentra festivos, buscar en los próximos 5 días
+    $current_day = date("d", strtotime("+$days_offset days"));
+
+    echo "🎲 Intento #$attempts - Consultando festivos en: $random_country[name] ($country_code) para el día $current_day\n";
 
     // URL para obtener los festivos
-    $holiday_url = "https://holidayapi.com/v1/holidays?key=$api_key&country=$country_code&year=$year&month=$month&day=$day&language=es";
+    $holiday_url = "https://holidayapi.com/v1/holidays?key=$api_key&country=$country_code&year=$year&month=$month&day=$current_day&language=es";
     echo "🌍 URL consultada: $holiday_url\n";
 
     $holiday_json = @file_get_contents($holiday_url);
@@ -86,11 +90,21 @@ while (!$found && $attempts < $max_attempts) {
     } else {
         echo "❌ No se encontró festivo en $random_country[name]. Intentando otro país...\n";
         $attempts++;
+
+        // 📅 Si después de 25 intentos no encuentra nada, probar con otro día (máx. 5 días adelante)
+        if ($attempts % 25 == 0) {
+            $days_offset++;
+            echo "🔄 No se encontraron festivos, probando con la fecha +$days_offset días...\n";
+            if ($days_offset > 5) {
+                break; // 🔴 Si ya probó 5 días adelante y no hay festivos, detener.
+            }
+        }
     }
 }
 
+// 📌 Si no se encontró ningún festivo, colocar mensaje genérico
 if (!$found) {
-    $holiday_name = "No hay festivos en ningún país hoy.";
+    $holiday_name = "No hay festivos registrados en la base de datos.";
     $holiday_country = "N/A";
     echo "❌ No se encontró un festivo después de $max_attempts intentos.\n";
 }
