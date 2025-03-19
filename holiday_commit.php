@@ -59,7 +59,7 @@ shuffle($country_list['countries']);
 
 $found = false;
 $attempts = 0;
-$max_attempts = 10;
+$max_attempts = 25;
 
 while (!$found && $attempts < $max_attempts) {
     $random_country = $country_list['countries'][array_rand($country_list['countries'])];
