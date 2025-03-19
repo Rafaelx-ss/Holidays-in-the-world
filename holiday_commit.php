@@ -45,6 +45,32 @@ if (!$api_key) {
 
 $github_repo = "Rafaelx-ss/Holidays-in-the-world";
 
+// 📌 Verificar si el directorio actual es un repositorio Git
+exec("git rev-parse --is-inside-work-tree 2>/dev/null", $output, $return_var);
+if ($return_var !== 0) {
+    echo "⚠️ No se detectó un repositorio Git. Inicializando...\n";
+    
+    // Inicializar el repositorio
+    exec("git init");
+
+    // Verificar si el remoto ya está configurado
+    exec("git remote -v", $remote_output);
+    $remote_exists = false;
+    foreach ($remote_output as $line) {
+        if (strpos($line, "origin") !== false) {
+            $remote_exists = true;
+            break;
+        }
+    }
+
+    // Agregar el remoto solo si no existe
+    if (!$remote_exists) {
+        exec("git remote add origin https://$github_token@github.com/$github_repo.git");
+    }
+}
+
+
+
 // Configurar UTF-8 para Git
 putenv('LC_ALL=en_US.UTF-8');
 
@@ -173,12 +199,16 @@ file_put_contents("README.md", $readme_template);
 
 echo "✅ README.md actualizado localmente.\n";
 
-// 📌 Hacer Pull antes de subir cambios
-echo "🔄 Haciendo pull de los últimos cambios...\n";
-exec("git pull origin main 2>&1", $git_output);
-echo implode("\n", $git_output) . "\n";
+// 📌 Resolver el problema del pull con README.md
+echo "🔄 Eliminando README.md temporalmente para evitar conflicto de merge...\n";
+exec("rm -f README.md");
 
-// 📌 Verificar cambios con `git status`
+// 📌 Hacer pull antes de subir cambios
+echo "🔄 Haciendo pull de los últimos cambios...\n";
+exec("git pull origin main --allow-unrelated-histories 2>&1", $pull_output);
+echo implode("\n", $pull_output) . "\n";
+
+// 📌 Verificar cambios en Git
 echo "🔎 Verificando si hay cambios en Git...\n";
 exec("git status --porcelain", $output);
 if (!empty($output)) {
@@ -188,9 +218,13 @@ if (!empty($output)) {
     exec("git commit -m \"Update holiday - $year-$month-$day\" 2>&1", $commit_output);
     echo implode("\n", $commit_output) . "\n";
 
+    // 📌 Configurar la rama por defecto como `main`
+    echo "🔄 Configurando la rama por defecto en 'main'...\n";
+    exec("git branch -M main");
+
     // 📌 Subir cambios a GitHub
-    echo "🚀 Subiendo cambios a GitHub...\n";
-    exec("git push https://$github_token@github.com/$github_repo.git 2>&1", $push_output);
+    echo "🚀 Subiendo cambios a GitHub en 'main'...\n";
+    exec("git push https://$github_token@github.com/$github_repo.git main 2>&1", $push_output);
     echo implode("\n", $push_output) . "\n";
 
     echo "✅ README.md actualizado y subido correctamente.\n";
