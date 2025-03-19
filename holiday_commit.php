@@ -62,11 +62,12 @@ $days_offset = 0;  // 📅 Si no se encuentra un festivo, buscar en fechas futur
 while (!$found && $attempts < $max_attempts) {
     $random_country = $country_list['countries'][array_rand($country_list['countries'])];
     $country_code = $random_country['code'];
+    $country_name = $random_country['name'];
 
     // 📅 Si no encuentra festivos, buscar en los próximos 5 días
     $current_day = date("d", strtotime("+$days_offset days"));
 
-    echo "🎲 Intento #$attempts - Consultando festivos en: $random_country[name] ($country_code) para el día $current_day\n";
+    echo "🎲 Intento #$attempts - Consultando festivos en: {$random_country['name']} ($country_code) para el día $current_day\n";
 
     // URL para obtener los festivos
     $holiday_url = "https://holidayapi.com/v1/holidays?key=$api_key&country=$country_code&year=$year&month=$month&day=$current_day&language=es";
@@ -84,11 +85,13 @@ while (!$found && $attempts < $max_attempts) {
     if (!empty($holiday_response['holidays'])) {
         $holiday = $holiday_response['holidays'][array_rand($holiday_response['holidays'])];
         $holiday_name = $holiday['name'];
-        $holiday_country = $holiday['country'];
+        $holiday_country_code = $holiday['country'];
+        $holiday_country = $country_name;
+        
         $found = true;
         echo "✅ Festivo encontrado en intento #$attempts: $holiday_name en $holiday_country\n";
     } else {
-        echo "❌ No se encontró festivo en $random_country[name]. Intentando otro país...\n";
+        echo "❌ No se encontró festivo en {$country_name}. ($country_code) Intentando otro país...\n";
         $attempts++;
 
         // 📅 Si después de 25 intentos no encuentra nada, probar con otro día (máx. 5 días adelante)
@@ -106,6 +109,7 @@ while (!$found && $attempts < $max_attempts) {
 if (!$found) {
     $holiday_name = "No hay festivos registrados en la base de datos.";
     $holiday_country = "N/A";
+    $holiday_country_code = "N/A";
     echo "❌ No se encontró un festivo después de $max_attempts intentos.\n";
 }
 
@@ -117,10 +121,34 @@ if (file_exists("README.md")) {
     unlink("README.md"); // Elimina el archivo para garantizar que Git detecte el cambio
 }
 
-$readme_template = "## 🌍 Holidays in the World - Festivos en el Mundo 🎉\n\n";
-$readme_template .= "📅 Fecha: $year-$month-$day\n";
-$readme_template .= "🌍 País: $holiday_country\n";
-$readme_template .= "🎉 Festivo: $holiday_name\n";
+$readme_template = <<<EOT
+# 🌍 Holidays in the World - Festivos en el Mundo 🎉
+
+> Un script automatizado que obtiene y actualiza diariamente los **días festivos del mundo** en español.  
+> Cada día, busca un festivo en cualquier país y lo sube automáticamente a este repositorio.  
+
+---
+
+## 📅 Último Festivo Encontrado
+> ✅ **Fecha:** `$year-$month-$day`  
+> 🌍 **País:** `$holiday_country` ($holiday_country_code)  
+> 🎉 **Festivo:** `$holiday_name`  
+
+*(Este dato se actualiza diariamente con un commit automático.)*
+
+---
+
+## 🚀 ¿Cómo Funciona?
+- Se obtiene la fecha actual del **año**.
+- Se consulta la **[Holiday API](https://holidayapi.com/)** en busca de un festivo en cualquier país.
+- Se actualiza el archivo `README.md` con la información más reciente.
+- Se realiza automáticamente un **commit y push** a este repositorio.
+
+---
+📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
+🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
+EOT;
+
 file_put_contents("README.md", $readme_template);
 
 echo "✅ README.md actualizado localmente.\n";
@@ -136,13 +164,8 @@ exec("git status --porcelain", $output);
 if (!empty($output)) {
     echo "📌 Se detectaron cambios en Git. Procediendo con el commit...\n";
 
-    // 📌 Mostrar archivos modificados antes de hacer commit
-    echo "📋 Archivos modificados:\n";
-    exec("git status -s", $status_output);
-    echo implode("\n", $status_output) . "\n";
-
     exec("git add -A");
-    exec("git commit -m \"Actualización automática - $year-$month-$day\" 2>&1", $commit_output);
+    exec("git commit -m \"Update holiday - $year-$month-$day\" 2>&1", $commit_output);
     echo implode("\n", $commit_output) . "\n";
 
     // 📌 Subir cambios a GitHub
