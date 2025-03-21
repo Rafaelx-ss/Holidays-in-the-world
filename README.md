@@ -7,7 +7,7 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-03-20`  
-> 🌍 **País:** `Suriname 🇸🇷 (SR)`  
+> 🌍 **País:** `Sao Tome and Principe 🇸🇹 (ST)`  
 > 🎉 **Festivo:** `Equinoccio de primavera`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
@@ -24,4 +24,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-20 22:05:12 -->
+<!-- Actualizado automáticamente el 2025-03-20 22:06:30 -->
