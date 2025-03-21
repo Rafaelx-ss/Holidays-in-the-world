@@ -169,32 +169,52 @@
  🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
  EOT;
  
- file_put_contents("README.md", $readme_template);
  
- echo "✅ README.md actualizado localmente.\n";
  
- // 📌 Hacer Pull antes de subir cambios
- echo "🔄 Haciendo pull de los últimos cambios...\n";
- exec("git pull origin main 2>&1", $git_output);
- echo implode("\n", $git_output) . "\n";
- 
- // 📌 Verificar cambios con `git status`
- echo "🔎 Verificando si hay cambios en Git...\n";
- exec("git status --porcelain", $output);
- if (!empty($output)) {
-     echo "📌 Se detectaron cambios en Git. Procediendo con el commit...\n";
- 
-     exec("git add -A");
-     exec("git commit -m \"Update holiday - $year-$month-$day\" 2>&1", $commit_output);
-     echo implode("\n", $commit_output) . "\n";
- 
-     // 📌 Subir cambios a GitHub
-     echo "🚀 Subiendo cambios a GitHub...\n";
-     exec("git push https://$github_token@github.com/$github_repo.git 2>&1", $push_output);
-     echo implode("\n", $push_output) . "\n";
- 
-     echo "✅ README.md actualizado y subido correctamente.\n";
- } else {
-     echo "⚠️ No hubo cambios en el festivo. No se realizó commit.\n";
- }
- ?>
+// 👉 Forzar cambio en el README con un comentario timestamp oculto
+$readme_template .= "\n\n<!-- Actualizado automáticamente el " . date('Y-m-d H:i:s') . " -->";
+
+file_put_contents("README.md", $readme_template);
+
+echo "✅ README.md actualizado localmente.\n";
+
+// 👉 Establecer configuración para limitar hilos por recursos del servidor
+putenv("GIT_CONFIG_PARAMETERS='core.threads=1'");
+
+// 📌 Hacer fetch de los últimos cambios del repo remoto
+echo "🔄 Verificando si el repo remoto tiene cambios...\n";
+exec("git fetch origin main 2>&1", $fetch_output);
+echo implode("\n", $fetch_output) . "\n";
+
+// 📌 Verificar si hay diferencias entre HEAD local y origin/main
+exec("git diff --quiet HEAD origin/main", $diff_check);
+
+if ($diff_check !== 0) {
+    echo "🔄 Hay diferencias. Intentando hacer pull (permitiendo historias no relacionadas)...\n";
+    exec("git pull origin main --allow-unrelated-histories 2>&1", $pull_output);
+    echo implode("\n", $pull_output) . "\n";
+} else {
+    echo "✅ El repositorio local está sincronizado con remoto.\n";
+}
+
+// 📌 Verificar si hay cambios en el working directory
+echo "🔎 Verificando si hay cambios en Git...\n";
+exec("git status --porcelain", $output);
+
+if (!empty($output)) {
+    echo "📌 Se detectaron cambios en Git. Procediendo con el commit...\n";
+
+    exec("git add -A");
+    exec("git commit -m \"Update holiday - $year-$month-$day\" 2>&1", $commit_output);
+    echo implode("\n", $commit_output) . "\n";
+
+    // 📌 Subir cambios a GitHub
+    echo "🚀 Subiendo cambios a GitHub...\n";
+    exec("git push https://$github_token@github.com/$github_repo.git 2>&1", $push_output);
+    echo implode("\n", $push_output) . "\n";
+
+    echo "✅ README.md actualizado y subido correctamente.\n";
+} else {
+    echo "⚠️ No hubo cambios en el festivo. No se realizó commit.\n";
+}
+?>
