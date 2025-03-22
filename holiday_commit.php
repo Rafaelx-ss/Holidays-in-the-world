@@ -276,6 +276,7 @@ if (!empty($output)) {
         logMsg("🧹 Eliminado .git/gc.log para evitar errores de gc.");
     }
 
+    exec("git remote set-url origin https://$github_token@github.com/$github_repo.git");
 
     exec("git push --force https://$github_token@github.com/$github_repo.git 2>&1", $push_output);
     echo implode("\n", $push_output) . "\n";
