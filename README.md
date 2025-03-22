@@ -7,8 +7,8 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-03-22`  
-> 🌍 **País:** `Switzerland 🇨🇭 (CH)`  
-> 🎉 **Festivo:** `Domingo de Ramos`  
+> 🌍 **País:** `Azerbaijan 🇦🇿 (AZ)`  
+> 🎉 **Festivo:** `Tercer día del festival de primavera`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -24,4 +24,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-22 02:39:36 -->
+<!-- Actualizado automáticamente el 2025-03-22 02:44:38 -->

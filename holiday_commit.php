@@ -74,16 +74,17 @@ logMsg("📅 Fecha actual: $year-$month-$day");
 // 📌 Obtener lista de países
 echo "🌍 Obteniendo lista de países...\n";
 $country_list_url = "https://holidayapi.com/v1/countries?key=$api_key";
-$country_list_json = file_get_contents($country_list_url);
-$country_list = json_decode($country_list_json, true);
+$country_list_json = file_get_contents($country_list_url); // Esto hace que se guarde en un archivo temporal
+$country_list = json_decode($country_list_json, true); // Decodifica el JSON en un array asociativo
 
 if (!isset($country_list['countries'])) {
     logMsg("❌ No se pudo obtener la lista de países.");
     die("❌ Error: No se pudo obtener la lista de países. Verifica tu API Key.\n");
 }
 
-// 📌 Mezclar la lista de países y buscar un festivo en hasta 50 intentos
-shuffle($country_list['countries']);
+$country_list = $country_list['countries'];
+echo json_encode($country_list);
+shuffle($country_list);
 
 $found = false;
 $attempts = 0;
@@ -91,7 +92,7 @@ $max_attempts = 100;
 $days_offset = 0;  // 📅 Si no se encuentra un festivo, buscar en fechas futuras
 
 while (!$found && $attempts < $max_attempts) {
-    $random_country = $country_list['countries'][array_rand($country_list['countries'])];
+    $random_country = $country_list[array_rand($country_list)];
     $country_code = $random_country['code'];
     $country_name = $random_country['name'];
 
