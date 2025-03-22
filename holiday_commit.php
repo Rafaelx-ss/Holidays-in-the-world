@@ -83,7 +83,7 @@ if (!isset($country_list['countries'])) {
 }
 
 $country_list = $country_list['countries'];
-echo json_encode($country_list);
+// echo json_encode($country_list);
 shuffle($country_list);
 
 $found = false;
@@ -122,7 +122,7 @@ while (!$found && $attempts < $max_attempts) {
         $holiday_country_code = $holiday['country'];
         $holiday_country = $country_name;
         $holiday_flag = countryCodeToEmoji($holiday_country_code);
-
+        $holiday_flag_png = $holiday['flag'];
 
         $found = true;
         logMsg("✅ Festivo encontrado: $holiday_name ($holiday_country)");
@@ -178,6 +178,7 @@ $readme_template = <<<EOT
  > ✅ **Fecha:** `$year-$month-$day`  
  > 🌍 **País:** `$holiday_country $holiday_flag ($holiday_country_code)`  
  > 🎉 **Festivo:** `$holiday_name`  
+ > 🎉 **Bandera:** `$holiday_flag_png`  
  
  *(Este dato se actualiza diariamente con un commit automático.)*
  
