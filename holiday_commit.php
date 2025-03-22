@@ -122,7 +122,7 @@ while (!$found && $attempts < $max_attempts) {
         $holiday_country_code = $holiday['country'];
         $holiday_country = $country_name;
         $holiday_flag = countryCodeToEmoji($holiday_country_code);
-        $holiday_flag_png = $holiday['flag'];
+        $holiday_flag_png = $random_country['flag'];
 
         $found = true;
         logMsg("✅ Festivo encontrado: $holiday_name ($holiday_country)");
@@ -149,6 +149,7 @@ if (!$found) {
     $holiday_country = "N/A";
     $holiday_country_code = "N/A";
     $holiday_flag = "🏳";
+    $holiday_flag_png = "";
     logMsg("⚠️ No se encontró ningún festivo tras $max_attempts intentos.");
     echo "❌ No se encontró un festivo después de $max_attempts intentos.\n";
 }
