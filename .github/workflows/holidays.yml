@@ -2,7 +2,8 @@ name: Daily Holiday Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '14 8 * * *'   # 8 AM CDMX = 14 UTC
+    - cron: '2 2 * * *'    # 8 PM CDMX = 2 UTC (del día siguiente)
   workflow_dispatch:
 
 permissions:
