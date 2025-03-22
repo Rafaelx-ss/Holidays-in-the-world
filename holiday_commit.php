@@ -252,9 +252,12 @@ if (!empty($output)) {
     logMsg("📌 Cambios detectados. Haciendo commit...");
 
     echo "📌 Se detectaron cambios en Git. Procediendo con el commit...\n";
-
+    
+    exec('git config user.name "GitHub Action"');
+    exec('git config user.email "action@github.com"');
     exec("git add -A");
     exec("git commit -m \"Update holiday - $year-$month-$day\" 2>&1", $commit_output);
+
     echo implode("\n", $commit_output) . "\n";
     logMsg("Commit:\n" . implode("\n", $commit_output));
 
