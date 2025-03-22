@@ -9,7 +9,7 @@
 > ✅ **Fecha:** `2025-03-22`  
 > 🌍 **País:** `Puerto Rico 🇵🇷 (PR)`  
 > 🎉 **Festivo:** `Día de la abolición de la esclavitud`  
-> 🎉 **Bandera:** `https://flagsapi.com/PR/flat/64.png`  
+> 🎉 **Bandera:** `![https://flagsapi.com/PR/flat/64.png](https://flagsapi.com/PR/flat/64.png)`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -25,4 +25,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-22 02:59:18 -->
+<!-- Actualizado automáticamente el 2025-03-22 03:00:38 -->

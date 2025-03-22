@@ -182,7 +182,7 @@ $readme_template = <<<EOT
  > ✅ **Fecha:** `$year-$month-$day`  
  > 🌍 **País:** `$holiday_country $holiday_flag ($holiday_country_code)`  
  > 🎉 **Festivo:** `$holiday_name`  
- > 🎉 **Bandera:** `$holiday_flag_png`  
+ > 🎉 **Bandera:** `![$holiday_flag_png]($holiday_flag_png)`  
  
  *(Este dato se actualiza diariamente con un commit automático.)*
  
