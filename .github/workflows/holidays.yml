@@ -2,8 +2,7 @@ name: Daily Holiday Update
 
 on:
   schedule:
-    - cron: '* * * * *'
-    - cron: '0 18 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
