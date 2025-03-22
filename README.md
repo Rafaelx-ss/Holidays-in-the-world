@@ -7,9 +7,9 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-03-22`  
-> 🌍 **País:** `N/A 🏳 (N/A)`  
-> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
-> 🎉 **Bandera:** ``  
+> 🌍 **País:** `Puerto Rico 🇵🇷 (PR)`  
+> 🎉 **Festivo:** `Día de la abolición de la esclavitud`  
+> 🎉 **Bandera:** `https://flagsapi.com/PR/flat/64.png`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -25,4 +25,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-22 02:53:35 -->
+<!-- Actualizado automáticamente el 2025-03-22 02:59:18 -->

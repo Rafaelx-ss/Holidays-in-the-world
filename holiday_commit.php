@@ -90,11 +90,13 @@ $found = false;
 $attempts = 0;
 $max_attempts = 100;
 $days_offset = 0;  // 📅 Si no se encuentra un festivo, buscar en fechas futuras
+$country_list_count = count($country_list);
 
 while (!$found && $attempts < $max_attempts) {
     $random_country = $country_list[array_rand($country_list)];
     $country_code = $random_country['code'];
     $country_name = $random_country['name'];
+    $holiday_flag_png = $random_country['flag'];
 
     // 📅 Si no encuentra festivos, buscar en los próximos 5 días
     $current_day = date("d", strtotime("+$days_offset days"));
@@ -132,8 +134,9 @@ while (!$found && $attempts < $max_attempts) {
         echo "❌ No se encontró festivo en {$country_name}. ($country_code) Intentando otro país...\n";
         $attempts++;
 
-        // 📅 Si después de 25 intentos no encuentra nada, probar con otro día (máx. 5 días adelante)
-        if ($attempts % 25 == 0) {
+        // 📅 Si de recorrer toda la lista de países aumentar 1 día (máx. 5 días adelante)
+        
+        if ($country_list_count == $attempts) {
             $days_offset++;
             echo "🔄 No se encontraron festivos, probando con la fecha +$days_offset días...\n";
             if ($days_offset > 5) {
