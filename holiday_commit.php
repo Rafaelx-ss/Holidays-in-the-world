@@ -278,7 +278,7 @@ if (!empty($output)) {
 
     exec("git remote set-url origin https://$github_token@github.com/$github_repo.git");
 
-    exec("git push --force https://$github_token@github.com/$github_repo.git 2>&1", $push_output);
+    exec("git push --force origin main 2>&1", $push_output);
     echo implode("\n", $push_output) . "\n";
 
     echo "✅ README.md actualizado y subido correctamente.\n";
