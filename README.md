@@ -6,9 +6,9 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-03-20`  
-> 🌍 **País:** `Sao Tome and Principe 🇸🇹 (ST)`  
-> 🎉 **Festivo:** `Equinoccio de primavera`  
+> ✅ **Fecha:** `2025-03-22`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -24,4 +24,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-20 22:06:30 -->
+<!-- Actualizado automáticamente el 2025-03-22 02:35:19 -->
