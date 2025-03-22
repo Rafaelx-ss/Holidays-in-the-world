@@ -1,1 +1,5 @@
 .env
+*
+!README.md
+!.gitignore
+!holiday_commit.php
