@@ -87,7 +87,7 @@ shuffle($country_list['countries']);
 
 $found = false;
 $attempts = 0;
-$max_attempts = 50;
+$max_attempts = 100;
 $days_offset = 0;  // 📅 Si no se encuentra un festivo, buscar en fechas futuras
 
 while (!$found && $attempts < $max_attempts) {
