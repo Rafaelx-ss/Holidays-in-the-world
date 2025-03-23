@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-03-23`  
-> 🌍 **País:** `Angola 🇦🇴 (AO)`  
-> 🎉 **Festivo:** `Día de la Liberación de África del Sur`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día de la amistad polaco-húngara`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AO/flat/64.png" height="100px" alt="AO ?? Angola">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-23 03:01:20 -->
+<!-- Actualizado automáticamente el 2025-03-23 08:31:49 -->
