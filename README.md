@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-03-23`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Día de la amistad polaco-húngara`  
+> ✅ **Fecha:** `2025-03-24`  
+> 🌍 **País:** `El Salvador 🇸🇻 (SV)`  
+> 🎉 **Festivo:** `Domingo de Ramos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/SV/flat/64.png" height="100px" alt="SV ?? El Salvador">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-23 08:31:49 -->
+<!-- Actualizado automáticamente el 2025-03-24 03:00:41 -->
