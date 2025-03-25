@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-03-24`  
-> 🌍 **País:** `Colombia 🇨🇴 (CO)`  
-> 🎉 **Festivo:** `Domingo de Ramos`  
+> ✅ **Fecha:** `2025-03-25`  
+> 🌍 **País:** `Cyprus 🇨🇾 (CY)`  
+> 🎉 **Festivo:** `Dia de la independencia griega`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CO/flat/64.png" height="100px" alt="CO ?? Colombia">
+> <img src="https://flagsapi.com/CY/flat/64.png" height="100px" alt="CY ?? Cyprus">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-24 08:36:01 -->
+<!-- Actualizado automáticamente el 2025-03-25 02:57:28 -->
