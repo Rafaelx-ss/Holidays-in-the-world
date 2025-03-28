@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-03-27`  
-> 🌍 **País:** `El Salvador 🇸🇻 (SV)`  
-> 🎉 **Festivo:** `Miércoles santo`  
+> ✅ **Fecha:** `2025-03-28`  
+> 🌍 **País:** `Costa Rica 🇨🇷 (CR)`  
+> 🎉 **Festivo:** `Jueves Santo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SV/flat/64.png" height="100px" alt="SV ?? El Salvador">
+> <img src="https://flagsapi.com/CR/flat/64.png" height="100px" alt="CR ?? Costa Rica">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-27 08:34:59 -->
+<!-- Actualizado automáticamente el 2025-03-28 02:58:41 -->
