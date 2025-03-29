@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-03-29`  
-> 🌍 **País:** `Guernsey 🇬🇬 (GG)`  
+> 🌍 **País:** `Macao 🇲🇴 (MO)`  
 > 🎉 **Festivo:** `Viernes Santo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GG/flat/64.png" height="100px" alt="GG ?? Guernsey">
+> <img src="https://flagsapi.com/MO/flat/64.png" height="100px" alt="MO ?? Macao">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-03-29 02:54:41 -->
+<!-- Actualizado automáticamente el 2025-03-29 08:32:35 -->
