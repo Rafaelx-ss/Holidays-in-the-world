@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-02`  
-> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
-> 🎉 **Festivo:** `Día de las Malvinas`  
+> 🌍 **País:** `Heard Island and McDonald Islands 🇭🇲 (HM)`  
+> 🎉 **Festivo:** `Martes de pascua`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
+> <img src="https://flagsapi.com/HM/flat/64.png" height="100px" alt="HM ?? Heard Island and McDonald Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-02 02:59:49 -->
+<!-- Actualizado automáticamente el 2025-04-02 08:36:53 -->
