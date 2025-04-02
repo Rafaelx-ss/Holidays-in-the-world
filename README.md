@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-01`  
-> 🌍 **País:** `French Polynesia 🇵🇫 (PF)`  
-> 🎉 **Festivo:** `Lunes de Pascua`  
+> ✅ **Fecha:** `2025-04-02`  
+> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
+> 🎉 **Festivo:** `Día de las Malvinas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PF/flat/64.png" height="100px" alt="PF ?? French Polynesia">
+> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-01 08:36:21 -->
+<!-- Actualizado automáticamente el 2025-04-02 02:59:49 -->
