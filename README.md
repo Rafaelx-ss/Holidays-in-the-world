@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-02`  
-> 🌍 **País:** `Heard Island and McDonald Islands 🇭🇲 (HM)`  
-> 🎉 **Festivo:** `Martes de pascua`  
+> ✅ **Fecha:** `2025-04-03`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HM/flat/64.png" height="100px" alt="HM ?? Heard Island and McDonald Islands">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-02 08:36:53 -->
+<!-- Actualizado automáticamente el 2025-04-03 02:57:52 -->
