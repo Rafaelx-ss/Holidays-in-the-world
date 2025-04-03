@@ -253,8 +253,8 @@ if (!empty($output)) {
 
     echo "📌 Se detectaron cambios en Git. Procediendo con el commit...\n";
     
-    exec('git config user.name "GitHub Action"');
-    exec('git config user.email "action@github.com"');
+    exec('git config user.name "Rafaelx-ss"');
+    exec('git config user.email "solisrafael895@gmail.com"');
     exec("git add -A");
     exec("git commit -m \"Update holiday - $year-$month-$day\" 2>&1", $commit_output);
 
