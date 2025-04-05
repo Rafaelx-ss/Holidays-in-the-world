@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-05`  
-> 🌍 **País:** `Kuwait 🇰🇼 (KW)`  
-> 🎉 **Festivo:** `Noche de decreto`  
+> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
+> 🎉 **Festivo:** `Dia del arbol`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KW/flat/64.png" height="100px" alt="KW ?? Kuwait">
+> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-05 02:55:27 -->
+<!-- Actualizado automáticamente el 2025-04-05 08:32:06 -->
