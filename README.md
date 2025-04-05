@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-04`  
-> 🌍 **País:** `China 🇨🇳 (CN)`  
-> 🎉 **Festivo:** `Festival Ching Ming`  
+> ✅ **Fecha:** `2025-04-05`  
+> 🌍 **País:** `Kuwait 🇰🇼 (KW)`  
+> 🎉 **Festivo:** `Noche de decreto`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
+> <img src="https://flagsapi.com/KW/flat/64.png" height="100px" alt="KW ?? Kuwait">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-04 08:35:15 -->
+<!-- Actualizado automáticamente el 2025-04-05 02:55:27 -->
