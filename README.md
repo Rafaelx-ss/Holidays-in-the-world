@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-05`  
-> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
-> 🎉 **Festivo:** `Dia del arbol`  
+> ✅ **Fecha:** `2025-04-06`  
+> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
+> 🎉 **Festivo:** `Día nacional del pescador`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
+> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-05 08:32:06 -->
+<!-- Actualizado automáticamente el 2025-04-06 03:02:16 -->
