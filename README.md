@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-06`  
-> 🌍 **País:** `China 🇨🇳 (CN)`  
-> 🎉 **Festivo:** `Tercer día del Festival Ching Ming`  
+> ✅ **Fecha:** `2025-04-07`  
+> 🌍 **País:** `Kyrgyzstan 🇰🇬 (KG)`  
+> 🎉 **Festivo:** `Día de la revolución popular de abril`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
+> <img src="https://flagsapi.com/KG/flat/64.png" height="100px" alt="KG ?? Kyrgyzstan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-06 08:33:05 -->
+<!-- Actualizado automáticamente el 2025-04-07 03:02:21 -->
