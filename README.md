@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-08`  
-> 🌍 **País:** `North Macedonia 🇲🇰 (MK)`  
-> 🎉 **Festivo:** `Dia internacional romani`  
+> 🌍 **País:** `Kosovo 🇽🇰 (XK)`  
+> 🎉 **Festivo:** `Dia de romas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MK/flat/64.png" height="100px" alt="MK ?? North Macedonia">
+> <img src="https://flagsapi.com/XK/flat/64.png" height="100px" alt="XK ?? Kosovo">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-08 02:58:20 -->
+<!-- Actualizado automáticamente el 2025-04-08 08:36:32 -->
