@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-11`  
-> 🌍 **País:** `Qatar 🇶🇦 (QA)`  
-> 🎉 **Festivo:** `Tercer día del festival de romper el ayuno`  
+> 🌍 **País:** `Somalia 🇸🇴 (SO)`  
+> 🎉 **Festivo:** `Festival de romper el ayuno`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/QA/flat/64.png" height="100px" alt="QA ?? Qatar">
+> <img src="https://flagsapi.com/SO/flat/64.png" height="100px" alt="SO ?? Somalia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-11 02:59:57 -->
+<!-- Actualizado automáticamente el 2025-04-11 08:35:53 -->
