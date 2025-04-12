@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-11`  
-> 🌍 **País:** `Somalia 🇸🇴 (SO)`  
-> 🎉 **Festivo:** `Festival de romper el ayuno`  
+> ✅ **Fecha:** `2025-04-12`  
+> 🌍 **País:** `Bangladesh 🇧🇩 (BD)`  
+> 🎉 **Festivo:** `Tercer día del festival de romper el ayuno`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SO/flat/64.png" height="100px" alt="SO ?? Somalia">
+> <img src="https://flagsapi.com/BD/flat/64.png" height="100px" alt="BD ?? Bangladesh">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-11 08:35:53 -->
+<!-- Actualizado automáticamente el 2025-04-12 02:56:35 -->
