@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-12`  
-> 🌍 **País:** `Bangladesh 🇧🇩 (BD)`  
-> 🎉 **Festivo:** `Tercer día del festival de romper el ayuno`  
+> 🌍 **País:** `Liberia 🇱🇷 (LR)`  
+> 🎉 **Festivo:** `Día de ayuno y oración`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BD/flat/64.png" height="100px" alt="BD ?? Bangladesh">
+> <img src="https://flagsapi.com/LR/flat/64.png" height="100px" alt="LR ?? Liberia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-12 02:56:35 -->
+<!-- Actualizado automáticamente el 2025-04-12 08:32:34 -->
