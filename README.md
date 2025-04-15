@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-15`  
-> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
-> 🎉 **Festivo:** `Tercer día del año nuevo camboyano`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Tercer día del festival Songkran`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-15 03:03:19 -->
+<!-- Actualizado automáticamente el 2025-04-15 08:37:20 -->
