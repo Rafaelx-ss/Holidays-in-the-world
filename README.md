@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-18`  
-> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
-> 🎉 **Festivo:** `Conmemoraciones de los reyes colgados`  
+> ✅ **Fecha:** `2025-04-19`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Levantamiento del gueto de Varsovia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-18 08:34:55 -->
+<!-- Actualizado automáticamente el 2025-04-19 02:54:59 -->
