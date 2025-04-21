@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-21`  
-> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
-> 🎉 **Festivo:** `Tiradentes`  
+> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
+> 🎉 **Festivo:** `Defensa heroica de Veracruz`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
+> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-21 03:07:59 -->
+<!-- Actualizado automáticamente el 2025-04-21 08:37:18 -->
