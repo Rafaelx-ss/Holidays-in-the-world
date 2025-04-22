@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-22`  
-> 🌍 **País:** `Canada 🇨🇦 (CA)`  
-> 🎉 **Festivo:** `Día de la Tierra`  
+> 🌍 **País:** `Uruguay 🇺🇾 (UY)`  
+> 🎉 **Festivo:** `Desembarco del Día de los 33 Patriotas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CA/flat/64.png" height="100px" alt="CA ?? Canada">
+> <img src="https://flagsapi.com/UY/flat/64.png" height="100px" alt="UY ?? Uruguay">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-22 03:01:29 -->
+<!-- Actualizado automáticamente el 2025-04-22 08:36:46 -->
