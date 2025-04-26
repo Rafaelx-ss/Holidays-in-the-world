@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-25`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Lleve a nuestras hijas e hijos al día de trabajo`  
+> ✅ **Fecha:** `2025-04-26`  
+> 🌍 **País:** `Denmark 🇩🇰 (DK)`  
+> 🎉 **Festivo:** `Día de oración general`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/DK/flat/64.png" height="100px" alt="DK ?? Denmark">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-25 08:36:23 -->
+<!-- Actualizado automáticamente el 2025-04-26 02:57:44 -->
