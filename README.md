@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-26`  
-> 🌍 **País:** `Denmark 🇩🇰 (DK)`  
-> 🎉 **Festivo:** `Día de oración general`  
+> ✅ **Fecha:** `2025-04-27`  
+> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
+> 🎉 **Festivo:** `Quinto día de pascua`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DK/flat/64.png" height="100px" alt="DK ?? Denmark">
+> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-26 08:33:00 -->
+<!-- Actualizado automáticamente el 2025-04-27 03:06:46 -->
