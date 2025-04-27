@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-27`  
-> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
-> 🎉 **Festivo:** `Quinto día de pascua`  
+> 🌍 **País:** `Caribbean Netherlands 🇧🇶 (BQ)`  
+> 🎉 **Festivo:** `Cumpleaños del rey`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
+> <img src="https://flagsapi.com/BQ/flat/64.png" height="100px" alt="BQ ?? Caribbean Netherlands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-27 03:06:46 -->
+<!-- Actualizado automáticamente el 2025-04-27 08:32:43 -->
