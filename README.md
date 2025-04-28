@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-28`  
-> 🌍 **País:** `Wallis and Futuna 🇼🇫 (WF)`  
-> 🎉 **Festivo:** `Día de Saint Pierre-Chanel`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/WF/flat/64.png" height="100px" alt="WF ?? Wallis and Futuna">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-28 03:08:34 -->
+<!-- Actualizado automáticamente el 2025-04-28 10:13:13 -->
