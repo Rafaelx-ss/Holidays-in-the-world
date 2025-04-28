@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-27`  
-> 🌍 **País:** `Caribbean Netherlands 🇧🇶 (BQ)`  
-> 🎉 **Festivo:** `Cumpleaños del rey`  
+> ✅ **Fecha:** `2025-04-28`  
+> 🌍 **País:** `Wallis and Futuna 🇼🇫 (WF)`  
+> 🎉 **Festivo:** `Día de Saint Pierre-Chanel`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BQ/flat/64.png" height="100px" alt="BQ ?? Caribbean Netherlands">
+> <img src="https://flagsapi.com/WF/flat/64.png" height="100px" alt="WF ?? Wallis and Futuna">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-27 08:32:43 -->
+<!-- Actualizado automáticamente el 2025-04-28 03:08:34 -->
