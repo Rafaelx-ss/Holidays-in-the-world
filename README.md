@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-04-29`  
-> 🌍 **País:** `Dominican Republic 🇩🇴 (DO)`  
-> 🎉 **Festivo:** `Día del Trabajador`  
+> 🌍 **País:** `Barbados 🇧🇧 (BB)`  
+> 🎉 **Festivo:** `Día nacional de los héroes`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DO/flat/64.png" height="100px" alt="DO ?? Dominican Republic">
+> <img src="https://flagsapi.com/BB/flat/64.png" height="100px" alt="BB ?? Barbados">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-29 03:04:22 -->
+<!-- Actualizado automáticamente el 2025-04-29 08:38:57 -->
