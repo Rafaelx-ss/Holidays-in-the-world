@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-29`  
-> 🌍 **País:** `Barbados 🇧🇧 (BB)`  
-> 🎉 **Festivo:** `Día nacional de los héroes`  
+> ✅ **Fecha:** `2025-04-30`  
+> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
+> 🎉 **Festivo:** `Día de la reunificación`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BB/flat/64.png" height="100px" alt="BB ?? Barbados">
+> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-29 08:38:57 -->
+<!-- Actualizado automáticamente el 2025-04-30 03:04:08 -->
