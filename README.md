@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-01`  
-> 🌍 **País:** `Algeria 🇩🇿 (DZ)`  
+> 🌍 **País:** `Libya 🇱🇾 (LY)`  
 > 🎉 **Festivo:** `Día del Trabajador`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DZ/flat/64.png" height="100px" alt="DZ ?? Algeria">
+> <img src="https://flagsapi.com/LY/flat/64.png" height="100px" alt="LY ?? Libya">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-01 03:14:39 -->
+<!-- Actualizado automáticamente el 2025-05-01 08:35:44 -->
