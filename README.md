@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-04-30`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Día de Protección al Consumidor`  
+> ✅ **Fecha:** `2025-05-01`  
+> 🌍 **País:** `Algeria 🇩🇿 (DZ)`  
+> 🎉 **Festivo:** `Día del Trabajador`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/DZ/flat/64.png" height="100px" alt="DZ ?? Algeria">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-04-30 08:37:11 -->
+<!-- Actualizado automáticamente el 2025-05-01 03:14:39 -->
