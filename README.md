@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-01`  
-> 🌍 **País:** `Libya 🇱🇾 (LY)`  
-> 🎉 **Festivo:** `Día del Trabajador`  
+> ✅ **Fecha:** `2025-05-02`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día de la diáspora polaca`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/LY/flat/64.png" height="100px" alt="LY ?? Libya">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-01 08:35:44 -->
+<!-- Actualizado automáticamente el 2025-05-02 03:06:13 -->
