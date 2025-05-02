@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-02`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Día de la diáspora polaca`  
+> 🌍 **País:** `Montenegro 🇲🇪 (ME)`  
+> 🎉 **Festivo:** `Día después del día del trabajo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/ME/flat/64.png" height="100px" alt="ME ?? Montenegro">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-02 03:06:13 -->
+<!-- Actualizado automáticamente el 2025-05-02 08:36:07 -->
