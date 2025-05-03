@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-02`  
-> 🌍 **País:** `Montenegro 🇲🇪 (ME)`  
-> 🎉 **Festivo:** `Día después del día del trabajo`  
+> ✅ **Fecha:** `2025-05-03`  
+> 🌍 **País:** `Japan 🇯🇵 (JP)`  
+> 🎉 **Festivo:** `Día de los caídos en la constitución`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ME/flat/64.png" height="100px" alt="ME ?? Montenegro">
+> <img src="https://flagsapi.com/JP/flat/64.png" height="100px" alt="JP ?? Japan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-02 08:36:07 -->
+<!-- Actualizado automáticamente el 2025-05-03 03:01:47 -->
