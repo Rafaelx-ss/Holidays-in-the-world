@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-03`  
-> 🌍 **País:** `Japan 🇯🇵 (JP)`  
-> 🎉 **Festivo:** `Día de los caídos en la constitución`  
+> 🌍 **País:** `Ecuador 🇪🇨 (EC)`  
+> 🎉 **Festivo:** `Día del Trabajador`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/JP/flat/64.png" height="100px" alt="JP ?? Japan">
+> <img src="https://flagsapi.com/EC/flat/64.png" height="100px" alt="EC ?? Ecuador">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-03 03:01:47 -->
+<!-- Actualizado automáticamente el 2025-05-03 08:33:41 -->
