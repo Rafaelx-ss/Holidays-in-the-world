@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-03`  
-> 🌍 **País:** `Ecuador 🇪🇨 (EC)`  
-> 🎉 **Festivo:** `Día del Trabajador`  
+> ✅ **Fecha:** `2025-05-04`  
+> 🌍 **País:** `North Macedonia 🇲🇰 (MK)`  
+> 🎉 **Festivo:** `Sábado Santo Ortodoxo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/EC/flat/64.png" height="100px" alt="EC ?? Ecuador">
+> <img src="https://flagsapi.com/MK/flat/64.png" height="100px" alt="MK ?? North Macedonia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-03 08:33:41 -->
+<!-- Actualizado automáticamente el 2025-05-04 03:14:58 -->
