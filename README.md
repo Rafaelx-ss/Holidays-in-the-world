@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-05`  
-> 🌍 **País:** `Greece 🇬🇷 (GR)`  
+> 🌍 **País:** `Kosovo 🇽🇰 (XK)`  
 > 🎉 **Festivo:** `Pascua ortodoxa`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GR/flat/64.png" height="100px" alt="GR ?? Greece">
+> <img src="https://flagsapi.com/XK/flat/64.png" height="100px" alt="XK ?? Kosovo">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-05 03:11:10 -->
+<!-- Actualizado automáticamente el 2025-05-05 08:38:51 -->
