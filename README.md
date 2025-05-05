@@ -6,9 +6,9 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-04`  
+> ✅ **Fecha:** `2025-05-05`  
 > 🌍 **País:** `Greece 🇬🇷 (GR)`  
-> 🎉 **Festivo:** `Sábado Santo Ortodoxo`  
+> 🎉 **Festivo:** `Pascua ortodoxa`  
 > 🔰 **Bandera:**
 > 
 > <img src="https://flagsapi.com/GR/flat/64.png" height="100px" alt="GR ?? Greece">
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-04 08:33:14 -->
+<!-- Actualizado automáticamente el 2025-05-05 03:11:10 -->
