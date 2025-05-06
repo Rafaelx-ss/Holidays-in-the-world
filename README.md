@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-05`  
-> 🌍 **País:** `Kosovo 🇽🇰 (XK)`  
-> 🎉 **Festivo:** `Pascua ortodoxa`  
+> ✅ **Fecha:** `2025-05-06`  
+> 🌍 **País:** `Cyprus 🇨🇾 (CY)`  
+> 🎉 **Festivo:** `Lunes de Pascua ortodoxo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/XK/flat/64.png" height="100px" alt="XK ?? Kosovo">
+> <img src="https://flagsapi.com/CY/flat/64.png" height="100px" alt="CY ?? Cyprus">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-05 08:38:51 -->
+<!-- Actualizado automáticamente el 2025-05-06 03:06:33 -->
