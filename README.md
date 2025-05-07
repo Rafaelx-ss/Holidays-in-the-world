@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-06`  
-> 🌍 **País:** `Georgia 🇬🇪 (GE)`  
-> 🎉 **Festivo:** `Lunes de Pascua ortodoxo`  
+> ✅ **Fecha:** `2025-05-07`  
+> 🌍 **País:** `Cyprus 🇨🇾 (CY)`  
+> 🎉 **Festivo:** `Martes de Pascua ortodoxo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GE/flat/64.png" height="100px" alt="GE ?? Georgia">
+> <img src="https://flagsapi.com/CY/flat/64.png" height="100px" alt="CY ?? Cyprus">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-06 08:38:28 -->
+<!-- Actualizado automáticamente el 2025-05-07 03:08:16 -->
