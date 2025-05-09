@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-08`  
-> 🌍 **País:** `Saint Barthélemy 🇧🇱 (BL)`  
-> 🎉 **Festivo:** `Dia de Victoria`  
+> ✅ **Fecha:** `2025-05-09`  
+> 🌍 **País:** `Caribbean Netherlands 🇧🇶 (BQ)`  
+> 🎉 **Festivo:** `Fiesta de la Ascensión de Jesucristo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BL/flat/64.png" height="100px" alt="BL ?? Saint Barthélemy">
+> <img src="https://flagsapi.com/BQ/flat/64.png" height="100px" alt="BQ ?? Caribbean Netherlands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-08 08:37:50 -->
+<!-- Actualizado automáticamente el 2025-05-09 03:08:07 -->
