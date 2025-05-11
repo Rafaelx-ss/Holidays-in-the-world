@@ -6,9 +6,9 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-10`  
+> ✅ **Fecha:** `2025-05-11`  
 > 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
-> 🎉 **Festivo:** `Festividad de la Ascensión de Jesucristo`  
+> 🎉 **Festivo:** `Día de la Policía Militar de las Fuerzas Armadas Nacionales de Indonesia`  
 > 🔰 **Bandera:**
 > 
 > <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-10 08:33:28 -->
+<!-- Actualizado automáticamente el 2025-05-11 03:13:56 -->
