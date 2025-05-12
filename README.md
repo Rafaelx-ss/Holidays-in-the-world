@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-12`  
-> 🌍 **País:** `Bahamas 🇧🇸 (BS)`  
+> 🌍 **País:** `Bhutan 🇧🇹 (BT)`  
 > 🎉 **Festivo:** `Día de la Madre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BS/flat/64.png" height="100px" alt="BS ?? Bahamas">
+> <img src="https://flagsapi.com/BT/flat/64.png" height="100px" alt="BT ?? Bhutan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-12 03:12:11 -->
+<!-- Actualizado automáticamente el 2025-05-12 08:39:25 -->
