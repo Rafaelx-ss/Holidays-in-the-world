@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-15`  
-> 🌍 **País:** `Macao 🇲🇴 (MO)`  
-> 🎉 **Festivo:** `El cumpleaños de Buda`  
+> ✅ **Fecha:** `2025-05-16`  
+> 🌍 **País:** `South Sudan 🇸🇸 (SS)`  
+> 🎉 **Festivo:** `Día de SPLA`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MO/flat/64.png" height="100px" alt="MO ?? Macao">
+> <img src="https://flagsapi.com/SS/flat/64.png" height="100px" alt="SS ?? South Sudan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-15 08:38:36 -->
+<!-- Actualizado automáticamente el 2025-05-16 03:10:59 -->
