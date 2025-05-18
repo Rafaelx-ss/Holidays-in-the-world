@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-18`  
-> 🌍 **País:** `Norway 🇳🇴 (NO)`  
-> 🎉 **Festivo:** `Víspera de Pentecostés`  
+> 🌍 **País:** `Haiti 🇭🇹 (HT)`  
+> 🎉 **Festivo:** `Día de la bandera y las universidades`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NO/flat/64.png" height="100px" alt="NO ?? Norway">
+> <img src="https://flagsapi.com/HT/flat/64.png" height="100px" alt="HT ?? Haiti">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-18 03:15:44 -->
+<!-- Actualizado automáticamente el 2025-05-18 08:33:30 -->
