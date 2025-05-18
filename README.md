@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-17`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Día de transporte de defensa nacional`  
+> ✅ **Fecha:** `2025-05-18`  
+> 🌍 **País:** `Norway 🇳🇴 (NO)`  
+> 🎉 **Festivo:** `Víspera de Pentecostés`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/NO/flat/64.png" height="100px" alt="NO ?? Norway">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-17 08:33:51 -->
+<!-- Actualizado automáticamente el 2025-05-18 03:15:44 -->
