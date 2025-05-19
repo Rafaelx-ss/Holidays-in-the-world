@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-19`  
-> 🌍 **País:** `Caribbean Netherlands 🇧🇶 (BQ)`  
+> 🌍 **País:** `Norway 🇳🇴 (NO)`  
 > 🎉 **Festivo:** `Pentecostés`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BQ/flat/64.png" height="100px" alt="BQ ?? Caribbean Netherlands">
+> <img src="https://flagsapi.com/NO/flat/64.png" height="100px" alt="NO ?? Norway">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-19 03:16:07 -->
+<!-- Actualizado automáticamente el 2025-05-19 08:41:09 -->
