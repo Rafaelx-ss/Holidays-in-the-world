@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-18`  
-> 🌍 **País:** `Haiti 🇭🇹 (HT)`  
-> 🎉 **Festivo:** `Día de la bandera y las universidades`  
+> ✅ **Fecha:** `2025-05-19`  
+> 🌍 **País:** `Caribbean Netherlands 🇧🇶 (BQ)`  
+> 🎉 **Festivo:** `Pentecostés`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HT/flat/64.png" height="100px" alt="HT ?? Haiti">
+> <img src="https://flagsapi.com/BQ/flat/64.png" height="100px" alt="BQ ?? Caribbean Netherlands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-18 08:33:30 -->
+<!-- Actualizado automáticamente el 2025-05-19 03:16:07 -->
