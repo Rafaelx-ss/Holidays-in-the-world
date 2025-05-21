@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-20`  
-> 🌍 **País:** `Anguilla 🇦🇮 (AI)`  
-> 🎉 **Festivo:** `Dilluns de Pentecosta (Barcelona)`  
+> ✅ **Fecha:** `2025-05-21`  
+> 🌍 **País:** `Chile 🇨🇱 (CL)`  
+> 🎉 **Festivo:** `Día de la marina`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AI/flat/64.png" height="100px" alt="AI ?? Anguilla">
+> <img src="https://flagsapi.com/CL/flat/64.png" height="100px" alt="CL ?? Chile">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-20 08:40:03 -->
+<!-- Actualizado automáticamente el 2025-05-21 03:10:26 -->
