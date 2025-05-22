@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-21`  
-> 🌍 **País:** `Montenegro 🇲🇪 (ME)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-05-22`  
+> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
+> 🎉 **Festivo:** `El cumpleaños de Buda`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ME/flat/64.png" height="100px" alt="ME ?? Montenegro">
+> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-21 08:38:51 -->
+<!-- Actualizado automáticamente el 2025-05-22 03:10:12 -->
