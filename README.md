@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-24`  
-> 🌍 **País:** `Ecuador 🇪🇨 (EC)`  
-> 🎉 **Festivo:** `La batalla de Pichincha`  
+> 🌍 **País:** `North Macedonia 🇲🇰 (MK)`  
+> 🎉 **Festivo:** `Día de los Santos Cirilo y Metodio`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/EC/flat/64.png" height="100px" alt="EC ?? Ecuador">
+> <img src="https://flagsapi.com/MK/flat/64.png" height="100px" alt="MK ?? North Macedonia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-24 03:04:13 -->
+<!-- Actualizado automáticamente el 2025-05-24 08:33:38 -->
