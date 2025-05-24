@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-23`  
-> 🌍 **País:** `North Macedonia 🇲🇰 (MK)`  
-> 🎉 **Festivo:** `Dia Nacional de los Aromanos`  
+> ✅ **Fecha:** `2025-05-24`  
+> 🌍 **País:** `Ecuador 🇪🇨 (EC)`  
+> 🎉 **Festivo:** `La batalla de Pichincha`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MK/flat/64.png" height="100px" alt="MK ?? North Macedonia">
+> <img src="https://flagsapi.com/EC/flat/64.png" height="100px" alt="EC ?? Ecuador">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-23 08:38:03 -->
+<!-- Actualizado automáticamente el 2025-05-24 03:04:13 -->
