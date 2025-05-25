@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-25`  
-> 🌍 **País:** `Ghana 🇬🇭 (GH)`  
-> 🎉 **Festivo:** `Día de la unión africana`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Día nacional de los niños desaparecidos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GH/flat/64.png" height="100px" alt="GH ?? Ghana">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-25 03:18:05 -->
+<!-- Actualizado automáticamente el 2025-05-25 08:34:12 -->
