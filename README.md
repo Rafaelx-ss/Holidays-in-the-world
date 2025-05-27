@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-26`  
-> 🌍 **País:** `Israel 🇮🇱 (IL)`  
-> 🎉 **Festivo:** `Lag B'Omer`  
+> ✅ **Fecha:** `2025-05-27`  
+> 🌍 **País:** `United Kingdom 🇬🇧 (GB)`  
+> 🎉 **Festivo:** `Spring Bank Holiday`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/IL/flat/64.png" height="100px" alt="IL ?? Israel">
+> <img src="https://flagsapi.com/GB/flat/64.png" height="100px" alt="GB ?? United Kingdom">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-26 09:03:19 -->
+<!-- Actualizado automáticamente el 2025-05-27 03:09:06 -->
