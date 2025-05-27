@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-27`  
-> 🌍 **País:** `United Kingdom 🇬🇧 (GB)`  
+> 🌍 **País:** `Jersey 🇯🇪 (JE)`  
 > 🎉 **Festivo:** `Spring Bank Holiday`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GB/flat/64.png" height="100px" alt="GB ?? United Kingdom">
+> <img src="https://flagsapi.com/JE/flat/64.png" height="100px" alt="JE ?? Jersey">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-27 03:09:06 -->
+<!-- Actualizado automáticamente el 2025-05-27 08:38:08 -->
