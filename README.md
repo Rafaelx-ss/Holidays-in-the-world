@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-28`  
-> 🌍 **País:** `Armenia 🇦🇲 (AM)`  
-> 🎉 **Festivo:** `Día de la república`  
+> ✅ **Fecha:** `2025-05-29`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AM/flat/64.png" height="100px" alt="AM ?? Armenia">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-28 08:39:22 -->
+<!-- Actualizado automáticamente el 2025-05-29 03:12:26 -->
