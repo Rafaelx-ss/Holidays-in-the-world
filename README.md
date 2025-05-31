@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-05-31`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Día mundial sin tabaco`  
+> 🌍 **País:** `Bermuda 🇧🇲 (BM)`  
+> 🎉 **Festivo:** `Día de las Bermudas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/BM/flat/64.png" height="100px" alt="BM ?? Bermuda">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-31 03:08:43 -->
+<!-- Actualizado automáticamente el 2025-05-31 08:34:39 -->
