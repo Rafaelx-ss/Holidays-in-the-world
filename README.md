@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-30`  
-> 🌍 **País:** `Trinidad and Tobago 🇹🇹 (TT)`  
-> 🎉 **Festivo:** `Corpus Christi`  
+> ✅ **Fecha:** `2025-05-31`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día mundial sin tabaco`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TT/flat/64.png" height="100px" alt="TT ?? Trinidad and Tobago">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-30 08:37:15 -->
+<!-- Actualizado automáticamente el 2025-05-31 03:08:43 -->
