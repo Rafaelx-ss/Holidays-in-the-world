@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-05-31`  
-> 🌍 **País:** `Bermuda 🇧🇲 (BM)`  
-> 🎉 **Festivo:** `Día de las Bermudas`  
+> ✅ **Fecha:** `2025-06-01`  
+> 🌍 **País:** `Kenya 🇰🇪 (KE)`  
+> 🎉 **Festivo:** `Día de Madaraka`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BM/flat/64.png" height="100px" alt="BM ?? Bermuda">
+> <img src="https://flagsapi.com/KE/flat/64.png" height="100px" alt="KE ?? Kenya">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-05-31 08:34:39 -->
+<!-- Actualizado automáticamente el 2025-06-01 03:38:54 -->
