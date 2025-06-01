@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-01`  
-> 🌍 **País:** `Kenya 🇰🇪 (KE)`  
-> 🎉 **Festivo:** `Día de Madaraka`  
+> 🌍 **País:** `Cape Verde 🇨🇻 (CV)`  
+> 🎉 **Festivo:** `Día de la Juventud`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KE/flat/64.png" height="100px" alt="KE ?? Kenya">
+> <img src="https://flagsapi.com/CV/flat/64.png" height="100px" alt="CV ?? Cape Verde">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-01 03:38:54 -->
+<!-- Actualizado automáticamente el 2025-06-01 08:36:09 -->
