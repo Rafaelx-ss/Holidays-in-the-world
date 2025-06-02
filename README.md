@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-01`  
-> 🌍 **País:** `Cape Verde 🇨🇻 (CV)`  
-> 🎉 **Festivo:** `Día de la Juventud`  
+> ✅ **Fecha:** `2025-06-02`  
+> 🌍 **País:** `Italy 🇮🇹 (IT)`  
+> 🎉 **Festivo:** `Día de la república`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CV/flat/64.png" height="100px" alt="CV ?? Cape Verde">
+> <img src="https://flagsapi.com/IT/flat/64.png" height="100px" alt="IT ?? Italy">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-01 08:36:09 -->
+<!-- Actualizado automáticamente el 2025-06-02 03:18:59 -->
