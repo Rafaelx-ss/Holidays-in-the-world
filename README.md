@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-02`  
-> 🌍 **País:** `Switzerland 🇨🇭 (CH)`  
-> 🎉 **Festivo:** `Día del Padre`  
+> ✅ **Fecha:** `2025-06-03`  
+> 🌍 **País:** `Cook Islands 🇨🇰 (CK)`  
+> 🎉 **Festivo:** `el cumpleaños de la reina`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CH/flat/64.png" height="100px" alt="CH ?? Switzerland">
+> <img src="https://flagsapi.com/CK/flat/64.png" height="100px" alt="CK ?? Cook Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-02 08:41:34 -->
+<!-- Actualizado automáticamente el 2025-06-03 03:14:17 -->
