@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-03`  
-> 🌍 **País:** `Uganda 🇺🇬 (UG)`  
-> 🎉 **Festivo:** `El día de los Mártires`  
+> ✅ **Fecha:** `2025-06-04`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/UG/flat/64.png" height="100px" alt="UG ?? Uganda">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-03 08:42:10 -->
+<!-- Actualizado automáticamente el 2025-06-04 03:14:54 -->
