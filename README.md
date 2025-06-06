@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-05`  
-> 🌍 **País:** `Equatorial Guinea 🇬🇶 (GQ)`  
-> 🎉 **Festivo:** `Día del Presidente`  
+> ✅ **Fecha:** `2025-06-06`  
+> 🌍 **País:** `Sweden 🇸🇪 (SE)`  
+> 🎉 **Festivo:** `Día Nacional`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GQ/flat/64.png" height="100px" alt="GQ ?? Equatorial Guinea">
+> <img src="https://flagsapi.com/SE/flat/64.png" height="100px" alt="SE ?? Sweden">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-05 08:39:10 -->
+<!-- Actualizado automáticamente el 2025-06-06 03:13:52 -->
