@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-06`  
-> 🌍 **País:** `Sweden 🇸🇪 (SE)`  
-> 🎉 **Festivo:** `Día Nacional`  
+> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
+> 🎉 **Festivo:** `Día Conmemorativo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SE/flat/64.png" height="100px" alt="SE ?? Sweden">
+> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-06 03:13:52 -->
+<!-- Actualizado automáticamente el 2025-06-06 08:37:44 -->
