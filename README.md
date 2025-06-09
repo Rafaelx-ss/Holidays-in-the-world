@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-08`  
-> 🌍 **País:** `Norfolk Island 🇳🇫 (NF)`  
-> 🎉 **Festivo:** `Día de la generosidad`  
+> ✅ **Fecha:** `2025-06-09`  
+> 🌍 **País:** `Pitcairn Islands 🇵🇳 (PN)`  
+> 🎉 **Festivo:** `el cumpleaños de la reina`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NF/flat/64.png" height="100px" alt="NF ?? Norfolk Island">
+> <img src="https://flagsapi.com/PN/flat/64.png" height="100px" alt="PN ?? Pitcairn Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-08 08:34:17 -->
+<!-- Actualizado automáticamente el 2025-06-09 03:20:33 -->
