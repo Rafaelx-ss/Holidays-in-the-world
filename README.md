@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-09`  
-> 🌍 **País:** `Pitcairn Islands 🇵🇳 (PN)`  
-> 🎉 **Festivo:** `el cumpleaños de la reina`  
+> 🌍 **País:** `Burkina Faso 🇧🇫 (BF)`  
+> 🎉 **Festivo:** `Día del Padre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PN/flat/64.png" height="100px" alt="PN ?? Pitcairn Islands">
+> <img src="https://flagsapi.com/BF/flat/64.png" height="100px" alt="BF ?? Burkina Faso">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-09 03:20:33 -->
+<!-- Actualizado automáticamente el 2025-06-09 08:42:28 -->
