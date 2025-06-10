@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-09`  
-> 🌍 **País:** `Burkina Faso 🇧🇫 (BF)`  
-> 🎉 **Festivo:** `Día del Padre`  
+> ✅ **Fecha:** `2025-06-10`  
+> 🌍 **País:** `Republic of the Congo 🇨🇬 (CG)`  
+> 🎉 **Festivo:** `Dia de la reconciliacion`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BF/flat/64.png" height="100px" alt="BF ?? Burkina Faso">
+> <img src="https://flagsapi.com/CG/flat/64.png" height="100px" alt="CG ?? Republic of the Congo">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-09 08:42:28 -->
+<!-- Actualizado automáticamente el 2025-06-10 03:16:38 -->
