@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-11`  
-> 🌍 **País:** `Fiji 🇫🇯 (FJ)`  
-> 🎉 **Festivo:** `el cumpleaños de la reina`  
+> 🌍 **País:** `Israel 🇮🇱 (IL)`  
+> 🎉 **Festivo:** `Erev Shavuot`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/FJ/flat/64.png" height="100px" alt="FJ ?? Fiji">
+> <img src="https://flagsapi.com/IL/flat/64.png" height="100px" alt="IL ?? Israel">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-11 03:15:42 -->
+<!-- Actualizado automáticamente el 2025-06-11 08:39:59 -->
