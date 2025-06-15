@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-14`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Día de la Bandera`  
+> ✅ **Fecha:** `2025-06-15`  
+> 🌍 **País:** `Kuwait 🇰🇼 (KW)`  
+> 🎉 **Festivo:** `Dia de arafa`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/KW/flat/64.png" height="100px" alt="KW ?? Kuwait">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-14 08:34:40 -->
+<!-- Actualizado automáticamente el 2025-06-15 03:22:42 -->
