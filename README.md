@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-17`  
-> 🌍 **País:** `Iceland 🇮🇸 (IS)`  
-> 🎉 **Festivo:** `Día nacional islandés`  
+> 🌍 **País:** `Libya 🇱🇾 (LY)`  
+> 🎉 **Festivo:** `Segundo día de la fiesta del sacrificio`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/IS/flat/64.png" height="100px" alt="IS ?? Iceland">
+> <img src="https://flagsapi.com/LY/flat/64.png" height="100px" alt="LY ?? Libya">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-17 03:16:04 -->
+<!-- Actualizado automáticamente el 2025-06-17 08:41:03 -->
