@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-17`  
-> 🌍 **País:** `Libya 🇱🇾 (LY)`  
-> 🎉 **Festivo:** `Segundo día de la fiesta del sacrificio`  
+> ✅ **Fecha:** `2025-06-18`  
+> 🌍 **País:** `Yemen 🇾🇪 (YE)`  
+> 🎉 **Festivo:** `Tercer día de la fiesta del sacrificio`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/LY/flat/64.png" height="100px" alt="LY ?? Libya">
+> <img src="https://flagsapi.com/YE/flat/64.png" height="100px" alt="YE ?? Yemen">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-17 08:41:03 -->
+<!-- Actualizado automáticamente el 2025-06-18 03:15:01 -->
