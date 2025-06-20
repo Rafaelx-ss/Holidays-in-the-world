@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-19`  
-> 🌍 **País:** `American Samoa 🇦🇸 (AS)`  
-> 🎉 **Festivo:** `Juneteenth`  
+> ✅ **Fecha:** `2025-06-20`  
+> 🌍 **País:** `Chile 🇨🇱 (CL)`  
+> 🎉 **Festivo:** `Día del pueblo indígena`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AS/flat/64.png" height="100px" alt="AS ?? American Samoa">
+> <img src="https://flagsapi.com/CL/flat/64.png" height="100px" alt="CL ?? Chile">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-19 08:40:06 -->
+<!-- Actualizado automáticamente el 2025-06-20 03:14:52 -->
