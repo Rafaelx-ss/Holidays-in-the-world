@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-20`  
-> 🌍 **País:** `Chile 🇨🇱 (CL)`  
-> 🎉 **Festivo:** `Día del pueblo indígena`  
+> 🌍 **País:** `Rwanda 🇷🇼 (RW)`  
+> 🎉 **Festivo:** `Solsticio de verano`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CL/flat/64.png" height="100px" alt="CL ?? Chile">
+> <img src="https://flagsapi.com/RW/flat/64.png" height="100px" alt="RW ?? Rwanda">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-20 03:14:52 -->
+<!-- Actualizado automáticamente el 2025-06-20 08:39:40 -->
