@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-20`  
-> 🌍 **País:** `Rwanda 🇷🇼 (RW)`  
+> ✅ **Fecha:** `2025-06-21`  
+> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
 > 🎉 **Festivo:** `Solsticio de verano`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/RW/flat/64.png" height="100px" alt="RW ?? Rwanda">
+> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-20 08:39:40 -->
+<!-- Actualizado automáticamente el 2025-06-21 03:11:17 -->
