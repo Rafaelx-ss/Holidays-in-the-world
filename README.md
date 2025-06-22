@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-22`  
-> 🌍 **País:** `Croatia 🇭🇷 (HR)`  
-> 🎉 **Festivo:** `Día de lucha antifascista`  
+> 🌍 **País:** `Sweden 🇸🇪 (SE)`  
+> 🎉 **Festivo:** `Día de verano`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HR/flat/64.png" height="100px" alt="HR ?? Croatia">
+> <img src="https://flagsapi.com/SE/flat/64.png" height="100px" alt="SE ?? Sweden">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-22 03:23:44 -->
+<!-- Actualizado automáticamente el 2025-06-22 08:35:26 -->
