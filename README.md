@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-21`  
-> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
-> 🎉 **Festivo:** `Solsticio de verano`  
+> ✅ **Fecha:** `2025-06-22`  
+> 🌍 **País:** `Croatia 🇭🇷 (HR)`  
+> 🎉 **Festivo:** `Día de lucha antifascista`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
+> <img src="https://flagsapi.com/HR/flat/64.png" height="100px" alt="HR ?? Croatia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-21 08:35:23 -->
+<!-- Actualizado automáticamente el 2025-06-22 03:23:44 -->
