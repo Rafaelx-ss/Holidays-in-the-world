@@ -20,14 +20,8 @@ echo "🔄 Iniciando script... \n";
 
 // 📌 Obtener credenciales desde el entorno
 $github_token = getenv('GITHUB_TOKEN');
-$api_key = getenv('HOLIDAY_API_KEY');
+$api_key = getenv('ACCESS_TOKEN');
 
-echo $github_token;
-echo $api_key;
-echo "<pre>";
-print_r(getenv());
-echo "</pre>";
-exit;
 
 if (!$github_token) {
     echo "❌ No se encontró el token de GitHub.\n";
@@ -55,8 +49,7 @@ echo "📅 Fecha actual: $year-$month-$day\n";
 // 📌 Obtener lista de países
 echo "🌍 Obteniendo lista de países...\n";
 $country_list_url = "https://holidayapi.com/v1/countries?pretty&key=$api_key";
-echo $country_list_url;
-exit;
+
 
 $country_list_json = file_get_contents($country_list_url); // Esto hace que se guarde en un archivo temporal
 $country_list = json_decode($country_list_json, true); // Decodifica el JSON en un array asociativo
@@ -89,8 +82,7 @@ while (!$found && $attempts < $max_attempts) {
 
     // URL para obtener los festivos
     $holiday_url = "https://holidayapi.com/v1/holidays?key=$api_key&country=$country_code&year=$year&month=$month&day=$current_day&language=es";
-    echo $holiday_url;
-    exit;
+
     echo "🌍 URL consultada: $holiday_url\n";
 
     $holiday_json = @file_get_contents($holiday_url);
