@@ -24,6 +24,9 @@ $api_key = getenv('ACCESS_TOKEN');
 
 echo $github_token;
 echo $api_key;
+echo "<pre>";
+print_r(getenv());
+echo "</pre>";
 exit;
 
 if (!$github_token) {
