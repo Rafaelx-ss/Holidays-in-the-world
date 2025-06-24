@@ -42,8 +42,6 @@ function countryCodeToEmoji($countryCode)
 
 logMsg("🔄 Iniciando script...");
 
-// 📌 Cargar variables de entorno desde .env
-// loadEnv(__DIR__ . '/.env'); // Ya no se necesita en GitHub Actions
 
 // 📌 Obtener credenciales desde el entorno
 $github_token = getenv('GITHUB_TOKEN');
@@ -71,9 +69,11 @@ echo "📅 Fecha actual: $year-$month-$day\n";
 logMsg("📅 Fecha actual: $year-$month-$day");
 
 
+
+
 // 📌 Obtener lista de países
 echo "🌍 Obteniendo lista de países...\n";
-$country_list_url = "https://holidayapi.com/v1/countries?key=$api_key";
+$country_list_url = "https://holidayapi.com/v1/countries?pretty&key=$api_key";
 $country_list_json = file_get_contents($country_list_url); // Esto hace que se guarde en un archivo temporal
 $country_list = json_decode($country_list_json, true); // Decodifica el JSON en un array asociativo
 
@@ -106,6 +106,8 @@ while (!$found && $attempts < $max_attempts) {
 
     // URL para obtener los festivos
     $holiday_url = "https://holidayapi.com/v1/holidays?key=$api_key&country=$country_code&year=$year&month=$month&day=$current_day&language=es";
+    echo $holiday_url;
+    exit;
     echo "🌍 URL consultada: $holiday_url\n";
 
     $holiday_json = @file_get_contents($holiday_url);
@@ -218,26 +220,7 @@ putenv("GIT_CONFIG_PARAMETERS='core.threads=1'");
 logMsg("🔄 Haciendo fetch del repo...");
 echo "🔄 Verificando si el repo remoto tiene cambios...\n";
 
-// exec("git fetch origin main 2>&1", $fetch_output);
-// echo implode("\n", $fetch_output) . "\n";
-// logMsg("Fetch:\n" . implode("\n", $fetch_output));
 
-
-// // 📌 Verificar si hay diferencias entre HEAD local y origin/main
-// exec("git diff --quiet HEAD origin/main", $diff_check);
-
-// if ($diff_check !== 0) {
-//     logMsg("⚠️ Hay diferencias. Haciendo pull...");
-
-//     echo "🔄 Hay diferencias. Intentando hacer pull (permitiendo historias no relacionadas)...\n";
-//     exec("git pull origin main --allow-unrelated-histories 2>&1", $pull_output);
-//     echo implode("\n", $pull_output) . "\n";
-//     logMsg("Pull:\n" . implode("\n", $pull_output));
-// } else {
-//     logMsg("✅ Repositorio sincronizado.");
-
-//     echo "✅ El repositorio local está sincronizado con remoto.\n";
-// }
 
 logMsg("🔎 Saltando fetch/pull para evitar errores de recursos.");
 
