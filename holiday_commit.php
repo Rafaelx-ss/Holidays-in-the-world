@@ -3,8 +3,8 @@ putenv("GIT_CONFIG_PARAMETERS='core.threads=1 gc.auto=0 pack.threads=1 pack.wind
 
 function logMsg($msg)
 {
-    //$timestamp = date('[Y-m-d H:i:s]');
-    //file_put_contents(__DIR__ . '/../log.txt', "$timestamp $msg\n", FILE_APPEND);
+    //$timestamp = date('[Y-m-d H:i:s]');  
+    //file_put_contents(__DIR__ . '/../log.txt', "$timestamp $msg\n", FILE_APPEND);  
 }
 
 // 📌 Función para cargar variables desde .env
