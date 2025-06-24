@@ -20,7 +20,7 @@ echo "🔄 Iniciando script... \n";
 
 // 📌 Obtener credenciales desde el entorno
 $github_token = getenv('GITHUB_TOKEN');
-$api_key = getenv('ACCESS_TOKEN');
+$api_key = getenv('HOLIDAY_API_KEY');
 
 echo $github_token;
 echo $api_key;
