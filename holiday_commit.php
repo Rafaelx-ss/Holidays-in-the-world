@@ -74,6 +74,9 @@ logMsg("📅 Fecha actual: $year-$month-$day");
 // 📌 Obtener lista de países
 echo "🌍 Obteniendo lista de países...\n";
 $country_list_url = "https://holidayapi.com/v1/countries?pretty&key=$api_key";
+echo $country_list_url;
+exit;
+
 $country_list_json = file_get_contents($country_list_url); // Esto hace que se guarde en un archivo temporal
 $country_list = json_decode($country_list_json, true); // Decodifica el JSON en un array asociativo
 
