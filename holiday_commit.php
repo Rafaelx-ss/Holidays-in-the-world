@@ -15,6 +15,57 @@ function countryCodeToEmoji($countryCode)
     return $emoji;
 }
 
+function ejecutarSolicitudHttp($url, $metodo, $datos = [], $key = '')
+{
+    try {
+        // Inicializar cURL
+        $ch = curl_init();
+
+        // Configurar opciones de cURL
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $metodo);
+        
+        curl_setopt($ch, CURLOPT_HTTPHEADER, [
+            'Content-Type: application/json'
+        ]);
+
+        // Siempre deshabilitar la verificación SSL ya que es un servidor local
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+        
+        // Ejecutar solicitud
+        $resultado = curl_exec($ch);
+        
+        // Verificar errores
+        if ($resultado === false) {
+            throw new Exception('Error cURL: ' . curl_error($ch));
+        }
+
+        // Obtener código de respuesta HTTP
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        if ($httpCode >= 400) {
+            throw new Exception("Error HTTP: código {$httpCode}");
+        }
+
+        curl_close($ch);
+
+        // Decodificar respuesta JSON
+        $resultadoDecodificado = json_decode($resultado, true);
+        if ($resultadoDecodificado === null) {
+            throw new Exception("Error decodificando JSON: " . json_last_error_msg());
+        }
+
+        return $resultadoDecodificado;
+
+    } catch (Exception $e) {
+        echo "Error en la solicitud a {$url}: " . $e->getMessage() . "\n";
+        return null;
+    }
+}
+
+
+
 echo "🔄 Iniciando script... \n";
 
 
@@ -43,23 +94,18 @@ $month = date("m");
 $day = date("d");
 echo "📅 Fecha actual: $year-$month-$day\n";
 
-
-
-
 // 📌 Obtener lista de países
 echo "🌍 Obteniendo lista de países...\n";
 $country_list_url = "https://holidayapi.com/v1/countries?pretty&key=$api_key";
+$country_list_json = ejecutarSolicitudHttp($country_list_url, 'GET', [], $api_key);
 
+$country_list = $country_list_json['countries']; // Decodifica el JSON en un array asociativo
 
-$country_list_json = file_get_contents($country_list_url); // Esto hace que se guarde en un archivo temporal
-$country_list = json_decode($country_list_json, true); // Decodifica el JSON en un array asociativo
-
-if (!isset($country_list['countries'])) {
+if (!isset($country_list)) {
     echo "❌ No se pudo obtener la lista de países.\n";
     die("❌ Error: No se pudo obtener la lista de países. Verifica tu API Key.\n");
 }
 
-$country_list = $country_list['countries'];
 // echo json_encode($country_list);
 shuffle($country_list);
 
