@@ -26,5 +26,10 @@ jobs:
           echo "ACCESS_TOKEN=${{ secrets.HOLIDAY_API_KEY }}" >> $GITHUB_ENV
           echo "GITHUB_TOKEN=${{ secrets.PUSH_TOKEN }}" >> $GITHUB_ENV
 
+      - name: Debug token parcialmente
+        run: |
+          echo "Primeros 5 caracteres del token:"
+          echo "${ACCESS_TOKEN:0:5}"
+
       - name: Run PHP script
         run: php holiday_commit.php
