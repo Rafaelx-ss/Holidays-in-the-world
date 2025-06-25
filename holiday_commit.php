@@ -15,7 +15,7 @@ function countryCodeToEmoji($countryCode)
     return $emoji;
 }
 
-function ejecutarSolicitudHttp($url, $metodo, $datos = [], $key = '')
+function ejecutarSolicitudHttp($url, $metodo)
 {
     try {
         // Inicializar cURL
@@ -97,7 +97,7 @@ echo "📅 Fecha actual: $year-$month-$day\n";
 // 📌 Obtener lista de países
 echo "🌍 Obteniendo lista de países...\n";
 $country_list_url = "https://holidayapi.com/v1/countries?pretty&key=$api_key";
-$country_list_json = ejecutarSolicitudHttp($country_list_url, 'GET', [], $api_key);
+$country_list_json = ejecutarSolicitudHttp($country_list_url, 'GET');
 
 $country_list = $country_list_json['countries']; // Decodifica el JSON en un array asociativo
 
@@ -131,17 +131,15 @@ while (!$found && $attempts < $max_attempts) {
 
     echo "🌍 URL consultada: $holiday_url\n";
 
-    $holiday_json = @file_get_contents($holiday_url);
+    $holiday_json = ejecutarSolicitudHttp($holiday_url, 'GET');
 
     if ($holiday_json === false) {
         echo "❌ Error al consultar la API. Verifica tu clave de API.\n";
         die();
     }
 
-    $holiday_response = json_decode($holiday_json, true);
-
-    if (!empty($holiday_response['holidays'])) {
-        $holiday = $holiday_response['holidays'][array_rand($holiday_response['holidays'])];
+    if (!empty($holiday_json['holidays'])) {
+        $holiday = $holiday_json['holidays'][array_rand($holiday_json['holidays'])];
         $holiday_name = $holiday['name'];
         $holiday_country_code = $holiday['country'];
         $holiday_country = $country_name;
