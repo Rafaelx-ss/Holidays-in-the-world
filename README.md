@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-25`  
-> 🌍 **País:** `Saudi Arabia 🇸🇦 (SA)`  
-> 🎉 **Festivo:** `Décimo día de la fiesta del sacrificio`  
+> 🌍 **País:** `Slovenia 🇸🇮 (SI)`  
+> 🎉 **Festivo:** `Día de la estadidad`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SA/flat/64.png" height="100px" alt="SA ?? Saudi Arabia">
+> <img src="https://flagsapi.com/SI/flat/64.png" height="100px" alt="SI ?? Slovenia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-25 02:45:10 -->
+<!-- Actualizado automáticamente el 2025-06-25 03:17:51 -->
