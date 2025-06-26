@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-25`  
-> 🌍 **País:** `Slovenia 🇸🇮 (SI)`  
-> 🎉 **Festivo:** `Día de la estadidad`  
+> ✅ **Fecha:** `2025-06-26`  
+> 🌍 **País:** `Madagascar 🇲🇬 (MG)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SI/flat/64.png" height="100px" alt="SI ?? Slovenia">
+> <img src="https://flagsapi.com/MG/flat/64.png" height="100px" alt="MG ?? Madagascar">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-25 08:42:25 -->
+<!-- Actualizado automáticamente el 2025-06-26 03:16:27 -->
