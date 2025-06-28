@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-28`  
-> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
-> 🎉 **Festivo:** `Día de la familia vietnamita`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día nacional de recuerdo de las protestas de Poznań 1956`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-28 03:12:18 -->
+<!-- Actualizado automáticamente el 2025-06-28 08:35:22 -->
