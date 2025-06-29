@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-29`  
-> 🌍 **País:** `Peru 🇵🇪 (PE)`  
+> 🌍 **País:** `Venezuela 🇻🇪 (VE)`  
 > 🎉 **Festivo:** `Fiesta de los santos Pedro y Pablo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PE/flat/64.png" height="100px" alt="PE ?? Peru">
+> <img src="https://flagsapi.com/VE/flat/64.png" height="100px" alt="VE ?? Venezuela">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-29 03:26:42 -->
+<!-- Actualizado automáticamente el 2025-06-29 08:35:53 -->
