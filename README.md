@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-29`  
-> 🌍 **País:** `Venezuela 🇻🇪 (VE)`  
-> 🎉 **Festivo:** `Fiesta de los santos Pedro y Pablo`  
+> ✅ **Fecha:** `2025-06-30`  
+> 🌍 **País:** `Sudan 🇸🇩 (SD)`  
+> 🎉 **Festivo:** `Día de revolución`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VE/flat/64.png" height="100px" alt="VE ?? Venezuela">
+> <img src="https://flagsapi.com/SD/flat/64.png" height="100px" alt="SD ?? Sudan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-29 08:35:53 -->
+<!-- Actualizado automáticamente el 2025-06-30 03:23:05 -->
