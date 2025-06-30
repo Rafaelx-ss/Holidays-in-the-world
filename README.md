@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-06-30`  
-> 🌍 **País:** `Sudan 🇸🇩 (SD)`  
-> 🎉 **Festivo:** `Día de revolución`  
+> 🌍 **País:** `Egypt 🇪🇬 (EG)`  
+> 🎉 **Festivo:** `30 de junio día`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SD/flat/64.png" height="100px" alt="SD ?? Sudan">
+> <img src="https://flagsapi.com/EG/flat/64.png" height="100px" alt="EG ?? Egypt">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-30 03:23:05 -->
+<!-- Actualizado automáticamente el 2025-06-30 08:42:50 -->
