@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-01`  
-> 🌍 **País:** `Sint Maarten 🇸🇽 (SX)`  
-> 🎉 **Festivo:** `Día de emancipación`  
+> 🌍 **País:** `China 🇨🇳 (CN)`  
+> 🎉 **Festivo:** `Día de fundación de CPC`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SX/flat/64.png" height="100px" alt="SX ?? Sint Maarten">
+> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-01 03:28:05 -->
+<!-- Actualizado automáticamente el 2025-07-01 08:42:00 -->
