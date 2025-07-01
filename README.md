@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-06-30`  
-> 🌍 **País:** `Egypt 🇪🇬 (EG)`  
-> 🎉 **Festivo:** `30 de junio día`  
+> ✅ **Fecha:** `2025-07-01`  
+> 🌍 **País:** `Sint Maarten 🇸🇽 (SX)`  
+> 🎉 **Festivo:** `Día de emancipación`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/EG/flat/64.png" height="100px" alt="EG ?? Egypt">
+> <img src="https://flagsapi.com/SX/flat/64.png" height="100px" alt="SX ?? Sint Maarten">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-06-30 08:42:50 -->
+<!-- Actualizado automáticamente el 2025-07-01 03:28:05 -->
