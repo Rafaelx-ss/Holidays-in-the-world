@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-01`  
-> 🌍 **País:** `China 🇨🇳 (CN)`  
-> 🎉 **Festivo:** `Día de fundación de CPC`  
+> ✅ **Fecha:** `2025-07-02`  
+> 🌍 **País:** `Pitcairn Islands 🇵🇳 (PN)`  
+> 🎉 **Festivo:** `Dia de pitcairn`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
+> <img src="https://flagsapi.com/PN/flat/64.png" height="100px" alt="PN ?? Pitcairn Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-01 08:42:00 -->
+<!-- Actualizado automáticamente el 2025-07-02 03:16:56 -->
