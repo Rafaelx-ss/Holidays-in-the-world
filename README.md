@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-02`  
-> 🌍 **País:** `Pitcairn Islands 🇵🇳 (PN)`  
-> 🎉 **Festivo:** `Dia de pitcairn`  
+> 🌍 **País:** `Curaçao 🇨🇼 (CW)`  
+> 🎉 **Festivo:** `Día de la bandera nacional y el himno de Curazao`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PN/flat/64.png" height="100px" alt="PN ?? Pitcairn Islands">
+> <img src="https://flagsapi.com/CW/flat/64.png" height="100px" alt="CW ?? Curaçao">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-02 03:16:56 -->
+<!-- Actualizado automáticamente el 2025-07-02 08:41:37 -->
