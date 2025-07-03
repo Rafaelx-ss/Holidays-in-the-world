@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-02`  
-> 🌍 **País:** `Curaçao 🇨🇼 (CW)`  
-> 🎉 **Festivo:** `Día de la bandera nacional y el himno de Curazao`  
+> ✅ **Fecha:** `2025-07-03`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CW/flat/64.png" height="100px" alt="CW ?? Curaçao">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-02 08:41:37 -->
+<!-- Actualizado automáticamente el 2025-07-03 03:18:40 -->
