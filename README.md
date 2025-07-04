@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-04`  
-> 🌍 **País:** `Puerto Rico 🇵🇷 (PR)`  
-> 🎉 **Festivo:** `Dia de la independencia de estados unidos`  
+> 🌍 **País:** `Rwanda 🇷🇼 (RW)`  
+> 🎉 **Festivo:** `Día de la liberación`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PR/flat/64.png" height="100px" alt="PR ?? Puerto Rico">
+> <img src="https://flagsapi.com/RW/flat/64.png" height="100px" alt="RW ?? Rwanda">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-04 03:16:27 -->
+<!-- Actualizado automáticamente el 2025-07-04 08:39:47 -->
