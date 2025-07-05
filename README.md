@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-05`  
-> 🌍 **País:** `Slovakia 🇸🇰 (SK)`  
-> 🎉 **Festivo:** `Fiesta de los Santos Cirilo y Metodio`  
+> 🌍 **País:** `Cape Verde 🇨🇻 (CV)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SK/flat/64.png" height="100px" alt="SK ?? Slovakia">
+> <img src="https://flagsapi.com/CV/flat/64.png" height="100px" alt="CV ?? Cape Verde">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-05 03:12:19 -->
+<!-- Actualizado automáticamente el 2025-07-05 08:35:36 -->
