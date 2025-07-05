@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-04`  
-> 🌍 **País:** `Rwanda 🇷🇼 (RW)`  
-> 🎉 **Festivo:** `Día de la liberación`  
+> ✅ **Fecha:** `2025-07-05`  
+> 🌍 **País:** `Slovakia 🇸🇰 (SK)`  
+> 🎉 **Festivo:** `Fiesta de los Santos Cirilo y Metodio`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/RW/flat/64.png" height="100px" alt="RW ?? Rwanda">
+> <img src="https://flagsapi.com/SK/flat/64.png" height="100px" alt="SK ?? Slovakia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-04 08:39:47 -->
+<!-- Actualizado automáticamente el 2025-07-05 03:12:19 -->
