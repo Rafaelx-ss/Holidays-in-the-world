@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-05`  
-> 🌍 **País:** `Cape Verde 🇨🇻 (CV)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-07-06`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CV/flat/64.png" height="100px" alt="CV ?? Cape Verde">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-05 08:35:36 -->
+<!-- Actualizado automáticamente el 2025-07-06 03:25:04 -->
