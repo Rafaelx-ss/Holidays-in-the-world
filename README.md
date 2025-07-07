@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-07`  
-> 🌍 **País:** `Djibouti 🇩🇯 (DJ)`  
+> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
 > 🎉 **Festivo:** `Día de año nuevo islámico`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DJ/flat/64.png" height="100px" alt="DJ ?? Djibouti">
+> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-07 03:23:00 -->
+<!-- Actualizado automáticamente el 2025-07-07 08:43:16 -->
