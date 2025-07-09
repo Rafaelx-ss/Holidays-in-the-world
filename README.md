@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-08`  
-> 🌍 **País:** `Mauritania 🇲🇷 (MR)`  
-> 🎉 **Festivo:** `Día de año nuevo islámico`  
+> ✅ **Fecha:** `2025-07-09`  
+> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MR/flat/64.png" height="100px" alt="MR ?? Mauritania">
+> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-08 08:42:15 -->
+<!-- Actualizado automáticamente el 2025-07-09 03:20:17 -->
