@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-09`  
-> 🌍 **País:** `South Sudan 🇸🇸 (SS)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-07-10`  
+> 🌍 **País:** `Bhutan 🇧🇹 (BT)`  
+> 🎉 **Festivo:** `Nacimiento de Guru Rimpoché`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SS/flat/64.png" height="100px" alt="SS ?? South Sudan">
+> <img src="https://flagsapi.com/BT/flat/64.png" height="100px" alt="BT ?? Bhutan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-09 08:42:02 -->
+<!-- Actualizado automáticamente el 2025-07-10 03:20:12 -->
