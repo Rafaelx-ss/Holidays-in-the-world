@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-11`  
-> 🌍 **País:** `Kiribati 🇰🇮 (KI)`  
-> 🎉 **Festivo:** `Dia del evangelio`  
+> ✅ **Fecha:** `2025-07-12`  
+> 🌍 **País:** `Sao Tome and Principe 🇸🇹 (ST)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KI/flat/64.png" height="100px" alt="KI ?? Kiribati">
+> <img src="https://flagsapi.com/ST/flat/64.png" height="100px" alt="ST ?? Sao Tome and Principe">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-11 08:41:45 -->
+<!-- Actualizado automáticamente el 2025-07-12 03:23:52 -->
