@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-12`  
-> 🌍 **País:** `Sao Tome and Principe 🇸🇹 (ST)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> 🌍 **País:** `Mongolia 🇲🇳 (MN)`  
+> 🎉 **Festivo:** `Segundo día del festival Naadam`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ST/flat/64.png" height="100px" alt="ST ?? Sao Tome and Principe">
+> <img src="https://flagsapi.com/MN/flat/64.png" height="100px" alt="MN ?? Mongolia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-12 03:23:52 -->
+<!-- Actualizado automáticamente el 2025-07-12 08:35:58 -->
