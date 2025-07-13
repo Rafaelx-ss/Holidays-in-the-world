@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-12`  
-> 🌍 **País:** `Mongolia 🇲🇳 (MN)`  
-> 🎉 **Festivo:** `Segundo día del festival Naadam`  
+> ✅ **Fecha:** `2025-07-13`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MN/flat/64.png" height="100px" alt="MN ?? Mongolia">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-12 08:35:58 -->
+<!-- Actualizado automáticamente el 2025-07-13 03:38:57 -->
