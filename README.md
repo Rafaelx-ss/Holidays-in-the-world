@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-15`  
-> 🌍 **País:** `Turkey 🇹🇷 (TR)`  
-> 🎉 **Festivo:** `Día de la democracia y la unidad nacional`  
+> ✅ **Fecha:** `2025-07-16`  
+> 🌍 **País:** `American Samoa 🇦🇸 (AS)`  
+> 🎉 **Festivo:** `Día de la Cesión de Manu'a`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TR/flat/64.png" height="100px" alt="TR ?? Turkey">
+> <img src="https://flagsapi.com/AS/flat/64.png" height="100px" alt="AS ?? American Samoa">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-15 08:43:39 -->
+<!-- Actualizado automáticamente el 2025-07-16 03:25:59 -->
