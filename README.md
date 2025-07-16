@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-16`  
-> 🌍 **País:** `American Samoa 🇦🇸 (AS)`  
-> 🎉 **Festivo:** `Día de la Cesión de Manu'a`  
+> 🌍 **País:** `Chile 🇨🇱 (CL)`  
+> 🎉 **Festivo:** `Nuestra Señora del Monte Carmelo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AS/flat/64.png" height="100px" alt="AS ?? American Samoa">
+> <img src="https://flagsapi.com/CL/flat/64.png" height="100px" alt="CL ?? Chile">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-16 03:25:59 -->
+<!-- Actualizado automáticamente el 2025-07-16 08:43:31 -->
