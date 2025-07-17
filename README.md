@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-16`  
-> 🌍 **País:** `Chile 🇨🇱 (CL)`  
-> 🎉 **Festivo:** `Nuestra Señora del Monte Carmelo`  
+> ✅ **Fecha:** `2025-07-17`  
+> 🌍 **País:** `South Africa 🇿🇦 (ZA)`  
+> 🎉 **Festivo:** `Pascua del Sacrificio - Eid al-Adha (Ceuta y Melilla)`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CL/flat/64.png" height="100px" alt="CL ?? Chile">
+> <img src="https://flagsapi.com/ZA/flat/64.png" height="100px" alt="ZA ?? South Africa">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-16 08:43:31 -->
+<!-- Actualizado automáticamente el 2025-07-17 03:25:41 -->
