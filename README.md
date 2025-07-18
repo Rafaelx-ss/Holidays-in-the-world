@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-17`  
-> 🌍 **País:** `Mayotte 🇾🇹 (YT)`  
-> 🎉 **Festivo:** `Pascua del Sacrificio - Eid al-Adha (Ceuta y Melilla)`  
+> ✅ **Fecha:** `2025-07-18`  
+> 🌍 **País:** `Uruguay 🇺🇾 (UY)`  
+> 🎉 **Festivo:** `Día de la Constitución`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/YT/flat/64.png" height="100px" alt="YT ?? Mayotte">
+> <img src="https://flagsapi.com/UY/flat/64.png" height="100px" alt="UY ?? Uruguay">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-17 08:43:30 -->
+<!-- Actualizado automáticamente el 2025-07-18 03:27:16 -->
