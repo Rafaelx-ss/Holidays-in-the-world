@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-19`  
-> 🌍 **País:** `Nicaragua 🇳🇮 (NI)`  
-> 🎉 **Festivo:** `Día de la Revolución Sandinista`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NI/flat/64.png" height="100px" alt="NI ?? Nicaragua">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-19 03:21:03 -->
+<!-- Actualizado automáticamente el 2025-07-19 08:38:15 -->
