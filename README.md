@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-20`  
-> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
-> 🎉 **Festivo:** `Yudu`  
+> 🌍 **País:** `Sri Lanka 🇱🇰 (LK)`  
+> 🎉 **Festivo:** `Esala Poya`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
+> <img src="https://flagsapi.com/LK/flat/64.png" height="100px" alt="LK ?? Sri Lanka">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-20 03:44:00 -->
+<!-- Actualizado automáticamente el 2025-07-20 08:36:43 -->
