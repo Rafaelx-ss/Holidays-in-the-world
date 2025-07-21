@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-20`  
-> 🌍 **País:** `Sri Lanka 🇱🇰 (LK)`  
-> 🎉 **Festivo:** `Esala Poya`  
+> ✅ **Fecha:** `2025-07-21`  
+> 🌍 **País:** `Cook Islands 🇨🇰 (CK)`  
+> 🎉 **Festivo:** `Mitiaro Gospel Day`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/LK/flat/64.png" height="100px" alt="LK ?? Sri Lanka">
+> <img src="https://flagsapi.com/CK/flat/64.png" height="100px" alt="CK ?? Cook Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-20 08:36:43 -->
+<!-- Actualizado automáticamente el 2025-07-21 03:42:37 -->
