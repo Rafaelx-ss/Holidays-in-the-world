@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-21`  
-> 🌍 **País:** `Cook Islands 🇨🇰 (CK)`  
-> 🎉 **Festivo:** `Mitiaro Gospel Day`  
+> 🌍 **País:** `Belgium 🇧🇪 (BE)`  
+> 🎉 **Festivo:** `Dia nacional belga`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CK/flat/64.png" height="100px" alt="CK ?? Cook Islands">
+> <img src="https://flagsapi.com/BE/flat/64.png" height="100px" alt="BE ?? Belgium">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-21 03:42:37 -->
+<!-- Actualizado automáticamente el 2025-07-21 08:47:12 -->
