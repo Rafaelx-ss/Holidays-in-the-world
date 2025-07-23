@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-23`  
-> 🌍 **País:** `Oman 🇴🇲 (OM)`  
-> 🎉 **Festivo:** `Día renacentista`  
+> 🌍 **País:** `Egypt 🇪🇬 (EG)`  
+> 🎉 **Festivo:** `Día de revolución`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/OM/flat/64.png" height="100px" alt="OM ?? Oman">
+> <img src="https://flagsapi.com/EG/flat/64.png" height="100px" alt="EG ?? Egypt">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-23 03:37:32 -->
+<!-- Actualizado automáticamente el 2025-07-23 08:44:38 -->
