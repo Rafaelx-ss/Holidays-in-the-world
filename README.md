@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-25`  
-> 🌍 **País:** `Nicaragua 🇳🇮 (NI)`  
-> 🎉 **Festivo:** `Fiesta de santiago`  
+> 🌍 **País:** `Costa Rica 🇨🇷 (CR)`  
+> 🎉 **Festivo:** `Anexión de Guanacaste`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NI/flat/64.png" height="100px" alt="NI ?? Nicaragua">
+> <img src="https://flagsapi.com/CR/flat/64.png" height="100px" alt="CR ?? Costa Rica">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-25 03:27:28 -->
+<!-- Actualizado automáticamente el 2025-07-25 08:42:39 -->
