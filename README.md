@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-24`  
-> 🌍 **País:** `N/A 🏳 (N/A)`  
-> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
+> ✅ **Fecha:** `2025-07-25`  
+> 🌍 **País:** `Nicaragua 🇳🇮 (NI)`  
+> 🎉 **Festivo:** `Fiesta de santiago`  
 > 🔰 **Bandera:**
 > 
-> <img src="" height="100px" alt="N/A ?? N/A">
+> <img src="https://flagsapi.com/NI/flat/64.png" height="100px" alt="NI ?? Nicaragua">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-24 08:44:12 -->
+<!-- Actualizado automáticamente el 2025-07-25 03:27:28 -->
