@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-25`  
-> 🌍 **País:** `Costa Rica 🇨🇷 (CR)`  
-> 🎉 **Festivo:** `Anexión de Guanacaste`  
+> ✅ **Fecha:** `2025-07-26`  
+> 🌍 **País:** `Maldives 🇲🇻 (MV)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CR/flat/64.png" height="100px" alt="CR ?? Costa Rica">
+> <img src="https://flagsapi.com/MV/flat/64.png" height="100px" alt="MV ?? Maldives">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-25 08:42:39 -->
+<!-- Actualizado automáticamente el 2025-07-26 03:24:10 -->
