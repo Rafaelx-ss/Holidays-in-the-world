@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-26`  
-> 🌍 **País:** `Maldives 🇲🇻 (MV)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> 🌍 **País:** `Nicaragua 🇳🇮 (NI)`  
+> 🎉 **Festivo:** `Fiesta de santa ana`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MV/flat/64.png" height="100px" alt="MV ?? Maldives">
+> <img src="https://flagsapi.com/NI/flat/64.png" height="100px" alt="NI ?? Nicaragua">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-26 03:24:10 -->
+<!-- Actualizado automáticamente el 2025-07-26 08:38:12 -->
