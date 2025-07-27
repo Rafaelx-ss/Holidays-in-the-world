@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-26`  
-> 🌍 **País:** `Nicaragua 🇳🇮 (NI)`  
-> 🎉 **Festivo:** `Fiesta de santa ana`  
+> ✅ **Fecha:** `2025-07-27`  
+> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
+> 🎉 **Festivo:** `Día de la conmemoración`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NI/flat/64.png" height="100px" alt="NI ?? Nicaragua">
+> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-26 08:38:12 -->
+<!-- Actualizado automáticamente el 2025-07-27 03:45:11 -->
