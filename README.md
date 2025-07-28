@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-27`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Día nacional del armisticio de veteranos de guerra de Corea`  
+> ✅ **Fecha:** `2025-07-28`  
+> 🌍 **País:** `Dominican Republic 🇩🇴 (DO)`  
+> 🎉 **Festivo:** `Día del Padre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/DO/flat/64.png" height="100px" alt="DO ?? Dominican Republic">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-27 08:38:37 -->
+<!-- Actualizado automáticamente el 2025-07-28 03:44:08 -->
