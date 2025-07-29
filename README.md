@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-07-29`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Día nacional del idioma tailandés`  
+> 🌍 **País:** `Wallis and Futuna 🇼🇫 (WF)`  
+> 🎉 **Festivo:** `Día del territorio`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/WF/flat/64.png" height="100px" alt="WF ?? Wallis and Futuna">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-29 03:47:58 -->
+<!-- Actualizado automáticamente el 2025-07-29 08:44:22 -->
