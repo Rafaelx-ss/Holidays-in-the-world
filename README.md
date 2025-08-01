@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-01`  
-> 🌍 **País:** `Saint Kitts and Nevis 🇰🇳 (KN)`  
+> 🌍 **País:** `Saint Lucia 🇱🇨 (LC)`  
 > 🎉 **Festivo:** `Día de emancipación`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KN/flat/64.png" height="100px" alt="KN ?? Saint Kitts and Nevis">
+> <img src="https://flagsapi.com/LC/flat/64.png" height="100px" alt="LC ?? Saint Lucia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-01 03:53:48 -->
+<!-- Actualizado automáticamente el 2025-08-01 08:44:25 -->
