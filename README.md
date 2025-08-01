@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-07-31`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Día del tesoro`  
+> ✅ **Fecha:** `2025-08-01`  
+> 🌍 **País:** `Saint Kitts and Nevis 🇰🇳 (KN)`  
+> 🎉 **Festivo:** `Día de emancipación`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/KN/flat/64.png" height="100px" alt="KN ?? Saint Kitts and Nevis">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-07-31 08:45:00 -->
+<!-- Actualizado automáticamente el 2025-08-01 03:53:48 -->
