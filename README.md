@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-02`  
-> 🌍 **País:** `Costa Rica 🇨🇷 (CR)`  
-> 🎉 **Festivo:** `Nuestra señora de los angeles`  
+> 🌍 **País:** `Saint Kitts and Nevis 🇰🇳 (KN)`  
+> 🎉 **Festivo:** `Día de Culturama`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CR/flat/64.png" height="100px" alt="CR ?? Costa Rica">
+> <img src="https://flagsapi.com/KN/flat/64.png" height="100px" alt="KN ?? Saint Kitts and Nevis">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-02 03:23:52 -->
+<!-- Actualizado automáticamente el 2025-08-02 08:39:12 -->
