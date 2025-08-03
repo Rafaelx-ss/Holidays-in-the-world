@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-02`  
-> 🌍 **País:** `Saint Kitts and Nevis 🇰🇳 (KN)`  
-> 🎉 **Festivo:** `Día de Culturama`  
+> ✅ **Fecha:** `2025-08-03`  
+> 🌍 **País:** `Niger 🇳🇪 (NE)`  
+> 🎉 **Festivo:** `Día de la independencia de Nigeria`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KN/flat/64.png" height="100px" alt="KN ?? Saint Kitts and Nevis">
+> <img src="https://flagsapi.com/NE/flat/64.png" height="100px" alt="NE ?? Niger">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-02 08:39:12 -->
+<!-- Actualizado automáticamente el 2025-08-03 03:49:13 -->
