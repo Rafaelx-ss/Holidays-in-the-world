@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-04`  
-> 🌍 **País:** `Cook Islands 🇨🇰 (CK)`  
-> 🎉 **Festivo:** `Día de la Constitución`  
+> ✅ **Fecha:** `2025-08-05`  
+> 🌍 **País:** `Tuvalu 🇹🇻 (TV)`  
+> 🎉 **Festivo:** `Dia nacional del niño`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CK/flat/64.png" height="100px" alt="CK ?? Cook Islands">
+> <img src="https://flagsapi.com/TV/flat/64.png" height="100px" alt="TV ?? Tuvalu">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-04 08:46:43 -->
+<!-- Actualizado automáticamente el 2025-08-05 03:45:18 -->
