@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-05`  
-> 🌍 **País:** `Montserrat 🇲🇸 (MS)`  
-> 🎉 **Festivo:** `Día de emancipación`  
+> ✅ **Fecha:** `2025-08-06`  
+> 🌍 **País:** `British Virgin Islands 🇻🇬 (VG)`  
+> 🎉 **Festivo:** `Martes del festival`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MS/flat/64.png" height="100px" alt="MS ?? Montserrat">
+> <img src="https://flagsapi.com/VG/flat/64.png" height="100px" alt="VG ?? British Virgin Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-05 08:46:05 -->
+<!-- Actualizado automáticamente el 2025-08-06 03:42:24 -->
