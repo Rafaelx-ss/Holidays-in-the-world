@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-06`  
-> 🌍 **País:** `British Virgin Islands 🇻🇬 (VG)`  
-> 🎉 **Festivo:** `Martes del festival`  
+> ✅ **Fecha:** `2025-08-07`  
+> 🌍 **País:** `Ivory Coast 🇨🇮 (CI)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VG/flat/64.png" height="100px" alt="VG ?? British Virgin Islands">
+> <img src="https://flagsapi.com/CI/flat/64.png" height="100px" alt="CI ?? Ivory Coast">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-06 08:45:52 -->
+<!-- Actualizado automáticamente el 2025-08-07 03:42:25 -->
