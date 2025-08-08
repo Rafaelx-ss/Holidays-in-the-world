@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-07`  
-> 🌍 **País:** `Ivory Coast 🇨🇮 (CI)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-08-08`  
+> 🌍 **País:** `China 🇨🇳 (CN)`  
+> 🎉 **Festivo:** `Día del Padre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CI/flat/64.png" height="100px" alt="CI ?? Ivory Coast">
+> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-07 08:45:30 -->
+<!-- Actualizado automáticamente el 2025-08-08 03:41:52 -->
