@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-08`  
-> 🌍 **País:** `Cook Islands 🇨🇰 (CK)`  
-> 🎉 **Festivo:** `Manihiki Gospel Day`  
+> ✅ **Fecha:** `2025-08-09`  
+> 🌍 **País:** `Ecuador 🇪🇨 (EC)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CK/flat/64.png" height="100px" alt="CK ?? Cook Islands">
+> <img src="https://flagsapi.com/EC/flat/64.png" height="100px" alt="EC ?? Ecuador">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-08 08:45:07 -->
+<!-- Actualizado automáticamente el 2025-08-09 03:18:20 -->
