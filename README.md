@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-09`  
-> 🌍 **País:** `Ecuador 🇪🇨 (EC)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-08-10`  
+> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
+> 🎉 **Festivo:** `Chilseok`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/EC/flat/64.png" height="100px" alt="EC ?? Ecuador">
+> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-09 08:37:14 -->
+<!-- Actualizado automáticamente el 2025-08-10 03:42:12 -->
