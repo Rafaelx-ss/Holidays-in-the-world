@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-14`  
-> 🌍 **País:** `Morocco 🇲🇦 (MA)`  
-> 🎉 **Festivo:** `Oued Ed-Dahab Day`  
+> ✅ **Fecha:** `2025-08-15`  
+> 🌍 **País:** `Paraguay 🇵🇾 (PY)`  
+> 🎉 **Festivo:** `Fundación de Asunción`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MA/flat/64.png" height="100px" alt="MA ?? Morocco">
+> <img src="https://flagsapi.com/PY/flat/64.png" height="100px" alt="PY ?? Paraguay">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-14 08:43:03 -->
+<!-- Actualizado automáticamente el 2025-08-15 03:19:39 -->
