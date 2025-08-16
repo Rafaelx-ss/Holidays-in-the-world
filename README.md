@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-16`  
-> 🌍 **País:** `Dominican Republic 🇩🇴 (DO)`  
-> 🎉 **Festivo:** `Día de restauración`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Día de paz tailandés`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DO/flat/64.png" height="100px" alt="DO ?? Dominican Republic">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-16 03:12:58 -->
+<!-- Actualizado automáticamente el 2025-08-16 08:36:05 -->
