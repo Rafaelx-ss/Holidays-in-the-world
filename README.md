@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-15`  
-> 🌍 **País:** `Austria 🇦🇹 (AT)`  
-> 🎉 **Festivo:** `Asunción`  
+> ✅ **Fecha:** `2025-08-16`  
+> 🌍 **País:** `Dominican Republic 🇩🇴 (DO)`  
+> 🎉 **Festivo:** `Día de restauración`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AT/flat/64.png" height="100px" alt="AT ?? Austria">
+> <img src="https://flagsapi.com/DO/flat/64.png" height="100px" alt="DO ?? Dominican Republic">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-15 08:39:49 -->
+<!-- Actualizado automáticamente el 2025-08-16 03:12:58 -->
