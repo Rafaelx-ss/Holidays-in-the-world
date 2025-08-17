@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-16`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Día de paz tailandés`  
+> ✅ **Fecha:** `2025-08-17`  
+> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
+> 🎉 **Festivo:** `Día conmemorativo del general José de San Martín`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-16 08:36:05 -->
+<!-- Actualizado automáticamente el 2025-08-17 03:23:44 -->
