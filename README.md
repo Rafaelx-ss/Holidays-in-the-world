@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-18`  
-> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
-> 🎉 **Festivo:** `Festival fantasma`  
+> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
+> 🎉 **Festivo:** `Festival de los fantasmas hambrientos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
+> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-18 03:28:08 -->
+<!-- Actualizado automáticamente el 2025-08-18 08:43:31 -->
