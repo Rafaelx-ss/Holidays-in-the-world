@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-17`  
-> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-08-18`  
+> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
+> 🎉 **Festivo:** `Festival fantasma`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
+> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-17 08:36:34 -->
+<!-- Actualizado automáticamente el 2025-08-18 03:28:08 -->
