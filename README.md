@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-18`  
-> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
-> 🎉 **Festivo:** `Festival de los fantasmas hambrientos`  
+> ✅ **Fecha:** `2025-08-19`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Dia nacional de la aviacion`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-18 08:43:31 -->
+<!-- Actualizado automáticamente el 2025-08-19 03:08:31 -->
