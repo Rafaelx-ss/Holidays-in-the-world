@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-19`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Dia nacional de la aviacion`  
+> 🌍 **País:** `Afghanistan 🇦🇫 (AF)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/AF/flat/64.png" height="100px" alt="AF ?? Afghanistan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-19 03:08:31 -->
+<!-- Actualizado automáticamente el 2025-08-19 08:38:41 -->
