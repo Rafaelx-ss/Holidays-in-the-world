@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-24`  
-> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
-> 🎉 **Festivo:** `Día de la televisión`  
+> ✅ **Fecha:** `2025-08-25`  
+> 🌍 **País:** `Mongolia 🇲🇳 (MN)`  
+> 🎉 **Festivo:** `Dia de la juventud`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
+> <img src="https://flagsapi.com/MN/flat/64.png" height="100px" alt="MN ?? Mongolia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-24 08:33:17 -->
+<!-- Actualizado automáticamente el 2025-08-25 03:13:35 -->
