@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-26`  
-> 🌍 **País:** `Isle of Man 🇮🇲 (IM)`  
-> 🎉 **Festivo:** `Feriado bancario de verano`  
+> 🌍 **País:** `South Sudan 🇸🇸 (SS)`  
+> 🎉 **Festivo:** `Día del Padre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/IM/flat/64.png" height="100px" alt="IM ?? Isle of Man">
+> <img src="https://flagsapi.com/SS/flat/64.png" height="100px" alt="SS ?? South Sudan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-26 03:07:31 -->
+<!-- Actualizado automáticamente el 2025-08-26 08:40:07 -->
