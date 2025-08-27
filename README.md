@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-26`  
-> 🌍 **País:** `South Sudan 🇸🇸 (SS)`  
-> 🎉 **Festivo:** `Día del Padre`  
+> ✅ **Fecha:** `2025-08-27`  
+> 🌍 **País:** `Myanmar 🇲🇲 (MM)`  
+> 🎉 **Festivo:** `Janmashtami`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SS/flat/64.png" height="100px" alt="SS ?? South Sudan">
+> <img src="https://flagsapi.com/MM/flat/64.png" height="100px" alt="MM ?? Myanmar">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-26 08:40:07 -->
+<!-- Actualizado automáticamente el 2025-08-27 03:00:45 -->
