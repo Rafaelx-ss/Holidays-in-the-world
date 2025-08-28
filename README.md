@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-27`  
-> 🌍 **País:** `Myanmar 🇲🇲 (MM)`  
-> 🎉 **Festivo:** `Janmashtami`  
+> ✅ **Fecha:** `2025-08-28`  
+> 🌍 **País:** `Georgia 🇬🇪 (GE)`  
+> 🎉 **Festivo:** `Día de santa maría`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MM/flat/64.png" height="100px" alt="MM ?? Myanmar">
+> <img src="https://flagsapi.com/GE/flat/64.png" height="100px" alt="GE ?? Georgia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-27 08:36:12 -->
+<!-- Actualizado automáticamente el 2025-08-28 03:00:27 -->
