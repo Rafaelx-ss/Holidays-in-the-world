@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-08-30`  
-> 🌍 **País:** `Timor-Leste 🇹🇱 (TL)`  
-> 🎉 **Festivo:** `Día de consulta popular`  
+> 🌍 **País:** `Kazakhstan 🇰🇿 (KZ)`  
+> 🎉 **Festivo:** `Día de la Constitución`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TL/flat/64.png" height="100px" alt="TL ?? Timor-Leste">
+> <img src="https://flagsapi.com/KZ/flat/64.png" height="100px" alt="KZ ?? Kazakhstan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-30 02:54:32 -->
+<!-- Actualizado automáticamente el 2025-08-30 08:32:06 -->
