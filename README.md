@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-08-30`  
-> 🌍 **País:** `Kazakhstan 🇰🇿 (KZ)`  
-> 🎉 **Festivo:** `Día de la Constitución`  
+> ✅ **Fecha:** `2025-08-31`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Dia de Solidaridad y Libertad`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KZ/flat/64.png" height="100px" alt="KZ ?? Kazakhstan">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-08-30 08:32:06 -->
+<!-- Actualizado automáticamente el 2025-08-31 03:04:31 -->
