@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-01`  
-> 🌍 **País:** `Heard Island and McDonald Islands 🇭🇲 (HM)`  
+> 🌍 **País:** `Papua New Guinea 🇵🇬 (PG)`  
 > 🎉 **Festivo:** `Día del Padre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HM/flat/64.png" height="100px" alt="HM ?? Heard Island and McDonald Islands">
+> <img src="https://flagsapi.com/PG/flat/64.png" height="100px" alt="PG ?? Papua New Guinea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-01 03:19:18 -->
+<!-- Actualizado automáticamente el 2025-09-01 08:39:44 -->
