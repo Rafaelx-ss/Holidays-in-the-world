@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-02`  
-> 🌍 **País:** `Northern Mariana Islands 🇲🇵 (MP)`  
+> 🌍 **País:** `American Samoa 🇦🇸 (AS)`  
 > 🎉 **Festivo:** `Día del Trabajador`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MP/flat/64.png" height="100px" alt="MP ?? Northern Mariana Islands">
+> <img src="https://flagsapi.com/AS/flat/64.png" height="100px" alt="AS ?? American Samoa">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-02 03:04:16 -->
+<!-- Actualizado automáticamente el 2025-09-02 08:37:11 -->
