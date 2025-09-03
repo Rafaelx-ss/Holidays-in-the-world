@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-02`  
-> 🌍 **País:** `American Samoa 🇦🇸 (AS)`  
-> 🎉 **Festivo:** `Día del Trabajador`  
+> ✅ **Fecha:** `2025-09-03`  
+> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
+> 🎉 **Festivo:** `Segundo día del feriado del Día Nacional`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AS/flat/64.png" height="100px" alt="AS ?? American Samoa">
+> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-02 08:37:11 -->
+<!-- Actualizado automáticamente el 2025-09-03 02:52:59 -->
