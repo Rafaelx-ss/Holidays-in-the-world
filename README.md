@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-06`  
-> 🌍 **País:** `Sao Tome and Principe 🇸🇹 (ST)`  
-> 🎉 **Festivo:** `Día de las Fuerzas Armadas`  
+> ✅ **Fecha:** `2025-09-07`  
+> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ST/flat/64.png" height="100px" alt="ST ?? Sao Tome and Principe">
+> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-06 08:30:57 -->
+<!-- Actualizado automáticamente el 2025-09-07 03:00:41 -->
