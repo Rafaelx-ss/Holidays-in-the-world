@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-07`  
-> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Día de limpieza de tierras federales Carl Garner`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-07 03:00:41 -->
+<!-- Actualizado automáticamente el 2025-09-07 08:30:58 -->
