@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-07`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Día de limpieza de tierras federales Carl Garner`  
+> ✅ **Fecha:** `2025-09-08`  
+> 🌍 **País:** `Liechtenstein 🇱🇮 (LI)`  
+> 🎉 **Festivo:** `Natividad de la Bienaventurada Virgen María`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/LI/flat/64.png" height="100px" alt="LI ?? Liechtenstein">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-07 08:30:58 -->
+<!-- Actualizado automáticamente el 2025-09-08 03:04:09 -->
