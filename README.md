@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-08`  
-> 🌍 **País:** `Liechtenstein 🇱🇮 (LI)`  
-> 🎉 **Festivo:** `Natividad de la Bienaventurada Virgen María`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Día nacional de los abuelos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/LI/flat/64.png" height="100px" alt="LI ?? Liechtenstein">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-08 03:04:09 -->
+<!-- Actualizado automáticamente el 2025-09-08 08:39:08 -->
