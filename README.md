@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-10`  
-> 🌍 **País:** `Gibraltar 🇬🇮 (GI)`  
-> 🎉 **Festivo:** `Dia nacional de gibraltar`  
+> ✅ **Fecha:** `2025-09-11`  
+> 🌍 **País:** `Ethiopia 🇪🇹 (ET)`  
+> 🎉 **Festivo:** `Día de año nuevo etíope`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GI/flat/64.png" height="100px" alt="GI ?? Gibraltar">
+> <img src="https://flagsapi.com/ET/flat/64.png" height="100px" alt="ET ?? Ethiopia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-10 08:36:16 -->
+<!-- Actualizado automáticamente el 2025-09-11 02:58:09 -->
