@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-11`  
-> 🌍 **País:** `Ethiopia 🇪🇹 (ET)`  
-> 🎉 **Festivo:** `Día de año nuevo etíope`  
+> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
+> 🎉 **Festivo:** `Día de Radio Republik Indonesia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ET/flat/64.png" height="100px" alt="ET ?? Ethiopia">
+> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-11 02:58:09 -->
+<!-- Actualizado automáticamente el 2025-09-11 08:35:28 -->
