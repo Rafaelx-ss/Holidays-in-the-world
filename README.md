@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-16`  
-> 🌍 **País:** `Afghanistan 🇦🇫 (AF)`  
+> 🌍 **País:** `Sierra Leone 🇸🇱 (SL)`  
 > 🎉 **Festivo:** `Nacimiento del profeta`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AF/flat/64.png" height="100px" alt="AF ?? Afghanistan">
+> <img src="https://flagsapi.com/SL/flat/64.png" height="100px" alt="SL ?? Sierra Leone">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-16 02:54:09 -->
+<!-- Actualizado automáticamente el 2025-09-16 08:36:52 -->
