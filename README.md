@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-17`  
-> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
-> 🎉 **Festivo:** `Hangawi`  
+> 🌍 **País:** `China 🇨🇳 (CN)`  
+> 🎉 **Festivo:** `Festival de mediados de otoño`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
+> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-17 02:53:13 -->
+<!-- Actualizado automáticamente el 2025-09-17 08:35:35 -->
