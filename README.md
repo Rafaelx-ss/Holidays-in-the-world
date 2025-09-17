@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-16`  
-> 🌍 **País:** `Sierra Leone 🇸🇱 (SL)`  
-> 🎉 **Festivo:** `Nacimiento del profeta`  
+> ✅ **Fecha:** `2025-09-17`  
+> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
+> 🎉 **Festivo:** `Hangawi`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SL/flat/64.png" height="100px" alt="SL ?? Sierra Leone">
+> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-16 08:36:52 -->
+<!-- Actualizado automáticamente el 2025-09-17 02:53:13 -->
