@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-18`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Cumpleaños de la fuerza aérea`  
+> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
+> 🎉 **Festivo:** `Segundo día de Chuseok`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-18 02:55:24 -->
+<!-- Actualizado automáticamente el 2025-09-18 08:35:11 -->
