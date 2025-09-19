@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-18`  
-> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
-> 🎉 **Festivo:** `Segundo día de Chuseok`  
+> ✅ **Fecha:** `2025-09-19`  
+> 🌍 **País:** `Saint Kitts and Nevis 🇰🇳 (KN)`  
+> 🎉 **Festivo:** `Dia de la independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
+> <img src="https://flagsapi.com/KN/flat/64.png" height="100px" alt="KN ?? Saint Kitts and Nevis">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-18 08:35:11 -->
+<!-- Actualizado automáticamente el 2025-09-19 02:58:42 -->
