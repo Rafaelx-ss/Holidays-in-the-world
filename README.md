@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-19`  
-> 🌍 **País:** `Chile 🇨🇱 (CL)`  
-> 🎉 **Festivo:** `Día del ejército`  
+> ✅ **Fecha:** `2025-09-20`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Jornada Nacional de la Juventud`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CL/flat/64.png" height="100px" alt="CL ?? Chile">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-19 08:35:29 -->
+<!-- Actualizado automáticamente el 2025-09-20 02:52:09 -->
