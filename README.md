@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-20`  
-> 🌍 **País:** `N/A 🏳 (N/A)`  
-> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
+> ✅ **Fecha:** `2025-09-21`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día del servicio de aduanas`  
 > 🔰 **Bandera:**
 > 
-> <img src="" height="100px" alt="N/A ?? N/A">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-20 08:32:37 -->
+<!-- Actualizado automáticamente el 2025-09-21 03:05:11 -->
