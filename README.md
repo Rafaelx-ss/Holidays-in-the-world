@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-21`  
-> 🌍 **País:** `Armenia 🇦🇲 (AM)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-09-22`  
+> 🌍 **País:** `Finland 🇫🇮 (FI)`  
+> 🎉 **Festivo:** `Equinoccio de otoño`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AM/flat/64.png" height="100px" alt="AM ?? Armenia">
+> <img src="https://flagsapi.com/FI/flat/64.png" height="100px" alt="FI ?? Finland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-21 08:31:10 -->
+<!-- Actualizado automáticamente el 2025-09-22 03:04:59 -->
