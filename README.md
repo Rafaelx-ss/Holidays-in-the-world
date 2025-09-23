@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-22`  
-> 🌍 **País:** `Kenya 🇰🇪 (KE)`  
-> 🎉 **Festivo:** `Equinoccio de otoño`  
+> ✅ **Fecha:** `2025-09-23`  
+> 🌍 **País:** `Saudi Arabia 🇸🇦 (SA)`  
+> 🎉 **Festivo:** `Dia nacional saudita`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KE/flat/64.png" height="100px" alt="KE ?? Kenya">
+> <img src="https://flagsapi.com/SA/flat/64.png" height="100px" alt="SA ?? Saudi Arabia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-22 08:38:03 -->
+<!-- Actualizado automáticamente el 2025-09-23 02:55:55 -->
