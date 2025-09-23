@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-23`  
-> 🌍 **País:** `Saudi Arabia 🇸🇦 (SA)`  
-> 🎉 **Festivo:** `Dia nacional saudita`  
+> 🌍 **País:** `Slovenia 🇸🇮 (SI)`  
+> 🎉 **Festivo:** `Día del deporte esloveno`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SA/flat/64.png" height="100px" alt="SA ?? Saudi Arabia">
+> <img src="https://flagsapi.com/SI/flat/64.png" height="100px" alt="SI ?? Slovenia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-23 02:55:55 -->
+<!-- Actualizado automáticamente el 2025-09-23 08:36:07 -->
