@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-23`  
-> 🌍 **País:** `Slovenia 🇸🇮 (SI)`  
-> 🎉 **Festivo:** `Día del deporte esloveno`  
+> ✅ **Fecha:** `2025-09-24`  
+> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
+> 🎉 **Festivo:** `Dia nacional de los campesinos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SI/flat/64.png" height="100px" alt="SI ?? Slovenia">
+> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-23 08:36:07 -->
+<!-- Actualizado automáticamente el 2025-09-24 02:57:24 -->
