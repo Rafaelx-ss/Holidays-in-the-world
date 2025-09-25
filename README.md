@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-25`  
-> 🌍 **País:** `Mozambique 🇲🇿 (MZ)`  
-> 🎉 **Festivo:** `Día de las Fuerzas Armadas`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MZ/flat/64.png" height="100px" alt="MZ ?? Mozambique">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-25 02:59:41 -->
+<!-- Actualizado automáticamente el 2025-09-25 08:36:51 -->
