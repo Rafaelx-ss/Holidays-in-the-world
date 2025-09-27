@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-27`  
-> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
-> 🎉 **Festivo:** `Culminación de la guerra de independencia mexicana`  
+> 🌍 **País:** `Turks and Caicos Islands 🇹🇨 (TC)`  
+> 🎉 **Festivo:** `Jornada Nacional de la Juventud`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
+> <img src="https://flagsapi.com/TC/flat/64.png" height="100px" alt="TC ?? Turks and Caicos Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-27 02:52:09 -->
+<!-- Actualizado automáticamente el 2025-09-27 08:31:24 -->
