@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-27`  
-> 🌍 **País:** `Turks and Caicos Islands 🇹🇨 (TC)`  
-> 🎉 **Festivo:** `Jornada Nacional de la Juventud`  
+> ✅ **Fecha:** `2025-09-28`  
+> 🌍 **País:** `Czechia 🇨🇿 (CZ)`  
+> 🎉 **Festivo:** `Día de la estadidad`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TC/flat/64.png" height="100px" alt="TC ?? Turks and Caicos Islands">
+> <img src="https://flagsapi.com/CZ/flat/64.png" height="100px" alt="CZ ?? Czechia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-27 08:31:24 -->
+<!-- Actualizado automáticamente el 2025-09-28 03:06:13 -->
