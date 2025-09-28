@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-28`  
-> 🌍 **País:** `Czechia 🇨🇿 (CZ)`  
-> 🎉 **Festivo:** `Día de la estadidad`  
+> 🌍 **País:** `Turkmenistan 🇹🇲 (TM)`  
+> 🎉 **Festivo:** `Día después del día de la independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CZ/flat/64.png" height="100px" alt="CZ ?? Czechia">
+> <img src="https://flagsapi.com/TM/flat/64.png" height="100px" alt="TM ?? Turkmenistan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-28 03:06:13 -->
+<!-- Actualizado automáticamente el 2025-09-28 08:31:57 -->
