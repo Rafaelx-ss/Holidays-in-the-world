@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-09-30`  
-> 🌍 **País:** `Canada 🇨🇦 (CA)`  
-> 🎉 **Festivo:** `Día Nacional de la Verdad y la Reconciliación`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día del niño`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CA/flat/64.png" height="100px" alt="CA ?? Canada">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-30 02:56:13 -->
+<!-- Actualizado automáticamente el 2025-09-30 08:40:13 -->
