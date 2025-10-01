@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-09-30`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Día del niño`  
+> ✅ **Fecha:** `2025-10-01`  
+> 🌍 **País:** `Ukraine 🇺🇦 (UA)`  
+> 🎉 **Festivo:** `Día del Defensor de Ucrania (suspendido)`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/UA/flat/64.png" height="100px" alt="UA ?? Ukraine">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-09-30 08:40:13 -->
+<!-- Actualizado automáticamente el 2025-10-01 03:09:17 -->
