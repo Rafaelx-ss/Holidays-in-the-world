@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-01`  
-> 🌍 **País:** `Ukraine 🇺🇦 (UA)`  
-> 🎉 **Festivo:** `Día del Defensor de Ucrania (suspendido)`  
+> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
+> 🎉 **Festivo:** `Día de las Fuerzas Armadas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/UA/flat/64.png" height="100px" alt="UA ?? Ukraine">
+> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-01 03:09:17 -->
+<!-- Actualizado automáticamente el 2025-10-01 08:36:41 -->
