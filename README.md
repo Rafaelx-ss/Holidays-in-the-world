@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-01`  
-> 🌍 **País:** `South Korea 🇰🇷 (KR)`  
-> 🎉 **Festivo:** `Día de las Fuerzas Armadas`  
+> ✅ **Fecha:** `2025-10-02`  
+> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
+> 🎉 **Festivo:** `Segundo día del festival Hungry Ghosts`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KR/flat/64.png" height="100px" alt="KR ?? South Korea">
+> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-01 08:36:41 -->
+<!-- Actualizado automáticamente el 2025-10-02 02:55:16 -->
