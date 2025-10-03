@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-03`  
-> 🌍 **País:** `Iraq 🇮🇶 (IQ)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> 🌍 **País:** `Nepal 🇳🇵 (NP)`  
+> 🎉 **Festivo:** `Ghatasthapana`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/IQ/flat/64.png" height="100px" alt="IQ ?? Iraq">
+> <img src="https://flagsapi.com/NP/flat/64.png" height="100px" alt="NP ?? Nepal">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-03 02:54:41 -->
+<!-- Actualizado automáticamente el 2025-10-03 08:34:41 -->
