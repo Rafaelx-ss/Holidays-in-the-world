@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-04`  
-> 🌍 **País:** `China 🇨🇳 (CN)`  
-> 🎉 **Festivo:** `Cuarto día de la Semana Dorada del Día Nacional`  
+> 🌍 **País:** `Israel 🇮🇱 (IL)`  
+> 🎉 **Festivo:** `Segundo día de Rosh Hashaná`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
+> <img src="https://flagsapi.com/IL/flat/64.png" height="100px" alt="IL ?? Israel">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-04 02:48:37 -->
+<!-- Actualizado automáticamente el 2025-10-04 08:32:11 -->
