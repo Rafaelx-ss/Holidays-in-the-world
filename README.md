@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-03`  
-> 🌍 **País:** `Nepal 🇳🇵 (NP)`  
-> 🎉 **Festivo:** `Ghatasthapana`  
+> ✅ **Fecha:** `2025-10-04`  
+> 🌍 **País:** `China 🇨🇳 (CN)`  
+> 🎉 **Festivo:** `Cuarto día de la Semana Dorada del Día Nacional`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NP/flat/64.png" height="100px" alt="NP ?? Nepal">
+> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-03 08:34:41 -->
+<!-- Actualizado automáticamente el 2025-10-04 02:48:37 -->
