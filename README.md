@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-05`  
-> 🌍 **País:** `Portugal 🇵🇹 (PT)`  
-> 🎉 **Festivo:** `Implantación de la República`  
+> ✅ **Fecha:** `2025-10-06`  
+> 🌍 **País:** `China 🇨🇳 (CN)`  
+> 🎉 **Festivo:** `Sexto Día de la Semana Dorada del Día Nacional`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PT/flat/64.png" height="100px" alt="PT ?? Portugal">
+> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-05 08:31:25 -->
+<!-- Actualizado automáticamente el 2025-10-06 02:59:49 -->
