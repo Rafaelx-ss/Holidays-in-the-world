@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-06`  
-> 🌍 **País:** `China 🇨🇳 (CN)`  
-> 🎉 **Festivo:** `Sexto Día de la Semana Dorada del Día Nacional`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Día alemán-estadounidense`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-06 02:59:49 -->
+<!-- Actualizado automáticamente el 2025-10-06 08:36:41 -->
