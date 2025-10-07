@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-06`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Día alemán-estadounidense`  
+> ✅ **Fecha:** `2025-10-07`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Quinto día del festival vegetariano`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-06 08:36:41 -->
+<!-- Actualizado automáticamente el 2025-10-07 02:55:47 -->
