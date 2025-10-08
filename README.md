@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-07`  
-> 🌍 **País:** `Heard Island and McDonald Islands 🇭🇲 (HM)`  
-> 🎉 **Festivo:** `Día de la familia y la comunidad`  
+> ✅ **Fecha:** `2025-10-08`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Sexto día del festival vegetariano`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HM/flat/64.png" height="100px" alt="HM ?? Heard Island and McDonald Islands">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-07 08:36:20 -->
+<!-- Actualizado automáticamente el 2025-10-08 02:55:51 -->
