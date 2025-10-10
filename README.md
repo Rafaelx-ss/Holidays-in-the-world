@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-10`  
-> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
-> 🎉 **Festivo:** `Día de la liberación de la capital`  
+> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
+> 🎉 **Festivo:** `Fiesta Fundación Día`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
+> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-10 02:58:31 -->
+<!-- Actualizado automáticamente el 2025-10-10 08:35:48 -->
