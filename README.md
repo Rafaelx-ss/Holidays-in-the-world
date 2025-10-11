@@ -6,9 +6,9 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-10`  
+> ✅ **Fecha:** `2025-10-11`  
 > 🌍 **País:** `North Korea 🇰🇵 (KP)`  
-> 🎉 **Festivo:** `Fiesta Fundación Día`  
+> 🎉 **Festivo:** `Jungyangjeol`  
 > 🔰 **Bandera:**
 > 
 > <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-10 08:35:48 -->
+<!-- Actualizado automáticamente el 2025-10-11 02:51:38 -->
