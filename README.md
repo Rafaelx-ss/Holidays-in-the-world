@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-11`  
-> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
-> 🎉 **Festivo:** `Jungyangjeol`  
+> 🌍 **País:** `China 🇨🇳 (CN)`  
+> 🎉 **Festivo:** `Chung Yeung Festival`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
+> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-11 02:51:38 -->
+<!-- Actualizado automáticamente el 2025-10-11 08:32:12 -->
