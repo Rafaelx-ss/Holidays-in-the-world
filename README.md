@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-11`  
-> 🌍 **País:** `China 🇨🇳 (CN)`  
-> 🎉 **Festivo:** `Chung Yeung Festival`  
+> ✅ **Fecha:** `2025-10-12`  
+> 🌍 **País:** `Uruguay 🇺🇾 (UY)`  
+> 🎉 **Festivo:** `Día de la carrera`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CN/flat/64.png" height="100px" alt="CN ?? China">
+> <img src="https://flagsapi.com/UY/flat/64.png" height="100px" alt="UY ?? Uruguay">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-11 08:32:12 -->
+<!-- Actualizado automáticamente el 2025-10-12 03:00:28 -->
