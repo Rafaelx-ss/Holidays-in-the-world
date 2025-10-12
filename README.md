@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-12`  
-> 🌍 **País:** `Uruguay 🇺🇾 (UY)`  
-> 🎉 **Festivo:** `Día de la carrera`  
+> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
+> 🎉 **Festivo:** `La Bien Aparecida (Cantabria)`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/UY/flat/64.png" height="100px" alt="UY ?? Uruguay">
+> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-12 03:00:28 -->
+<!-- Actualizado automáticamente el 2025-10-12 08:32:10 -->
