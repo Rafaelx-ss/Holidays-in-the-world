@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-12`  
-> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
-> 🎉 **Festivo:** `La Bien Aparecida (Cantabria)`  
+> ✅ **Fecha:** `2025-10-13`  
+> 🌍 **País:** `Samoa 🇼🇸 (WS)`  
+> 🎉 **Festivo:** `Domingo blanco`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
+> <img src="https://flagsapi.com/WS/flat/64.png" height="100px" alt="WS ?? Samoa">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-12 08:32:10 -->
+<!-- Actualizado automáticamente el 2025-10-13 03:07:51 -->
