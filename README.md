@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-13`  
-> 🌍 **País:** `Samoa 🇼🇸 (WS)`  
-> 🎉 **Festivo:** `Domingo blanco`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Cumpleaños de la marina`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/WS/flat/64.png" height="100px" alt="WS ?? Samoa">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-13 03:07:51 -->
+<!-- Actualizado automáticamente el 2025-10-13 08:40:54 -->
