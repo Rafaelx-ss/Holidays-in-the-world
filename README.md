@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-13`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Cumpleaños de la marina`  
+> ✅ **Fecha:** `2025-10-14`  
+> 🌍 **País:** `Georgia 🇬🇪 (GE)`  
+> 🎉 **Festivo:** `Día de la catedral de Svetitskhoveli`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/GE/flat/64.png" height="100px" alt="GE ?? Georgia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-13 08:40:54 -->
+<!-- Actualizado automáticamente el 2025-10-14 02:58:44 -->
