@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-14`  
-> 🌍 **País:** `Georgia 🇬🇪 (GE)`  
-> 🎉 **Festivo:** `Día de la catedral de Svetitskhoveli`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Día conmemorativo del rey Bhumibol Adulyadej`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GE/flat/64.png" height="100px" alt="GE ?? Georgia">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-14 02:58:44 -->
+<!-- Actualizado automáticamente el 2025-10-14 08:35:25 -->
