@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-15`  
-> 🌍 **País:** `Tunisia 🇹🇳 (TN)`  
-> 🎉 **Festivo:** `Dia de evacuacion`  
+> ✅ **Fecha:** `2025-10-16`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día del papa Juan Pablo II`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TN/flat/64.png" height="100px" alt="TN ?? Tunisia">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-15 08:40:26 -->
+<!-- Actualizado automáticamente el 2025-10-16 03:01:09 -->
