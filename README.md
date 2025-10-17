@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-16`  
-> 🌍 **País:** `N/A 🏳 (N/A)`  
-> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
+> ✅ **Fecha:** `2025-10-17`  
+> 🌍 **País:** `Haiti 🇭🇹 (HT)`  
+> 🎉 **Festivo:** `Dessalines Day`  
 > 🔰 **Bandera:**
 > 
-> <img src="" height="100px" alt="N/A ?? N/A">
+> <img src="https://flagsapi.com/HT/flat/64.png" height="100px" alt="HT ?? Haiti">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-16 08:40:05 -->
+<!-- Actualizado automáticamente el 2025-10-17 02:59:42 -->
