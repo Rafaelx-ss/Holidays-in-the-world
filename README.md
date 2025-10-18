@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-17`  
-> 🌍 **País:** `Haiti 🇭🇹 (HT)`  
-> 🎉 **Festivo:** `Dessalines Day`  
+> ✅ **Fecha:** `2025-10-18`  
+> 🌍 **País:** `Azerbaijan 🇦🇿 (AZ)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HT/flat/64.png" height="100px" alt="HT ?? Haiti">
+> <img src="https://flagsapi.com/AZ/flat/64.png" height="100px" alt="AZ ?? Azerbaijan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-17 08:37:07 -->
+<!-- Actualizado automáticamente el 2025-10-18 02:53:10 -->
