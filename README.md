@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-20`  
-> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
-> 🎉 **Festivo:** `Día de la Madre`  
+> ✅ **Fecha:** `2025-10-21`  
+> 🌍 **País:** `Israel 🇮🇱 (IL)`  
+> 🎉 **Festivo:** `Quinto día de Sucot`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
+> <img src="https://flagsapi.com/IL/flat/64.png" height="100px" alt="IL ?? Israel">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-20 08:37:33 -->
+<!-- Actualizado automáticamente el 2025-10-21 03:03:29 -->
