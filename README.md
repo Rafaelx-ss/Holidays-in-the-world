@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-21`  
-> 🌍 **País:** `Israel 🇮🇱 (IL)`  
-> 🎉 **Festivo:** `Quinto día de Sucot`  
+> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
+> 🎉 **Festivo:** `Día de los chinos de ultramar`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/IL/flat/64.png" height="100px" alt="IL ?? Israel">
+> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-21 03:03:29 -->
+<!-- Actualizado automáticamente el 2025-10-21 08:40:45 -->
