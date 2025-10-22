@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-21`  
-> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
-> 🎉 **Festivo:** `Día de los chinos de ultramar`  
+> ✅ **Fecha:** `2025-10-22`  
+> 🌍 **País:** `Niue 🇳🇺 (NU)`  
+> 🎉 **Festivo:** `Día del Evangelio de Peniamina`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
+> <img src="https://flagsapi.com/NU/flat/64.png" height="100px" alt="NU ?? Niue">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-21 08:40:45 -->
+<!-- Actualizado automáticamente el 2025-10-22 03:08:46 -->
