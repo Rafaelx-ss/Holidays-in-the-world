@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-23`  
-> 🌍 **País:** `Russian Federation 🇷🇺 (RU)`  
-> 🎉 **Festivo:** `Jornada de Trabajadores de la industria publicitaria`  
+> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
+> 🎉 **Festivo:** `Día del Acuerdo de paz de París`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/RU/flat/64.png" height="100px" alt="RU ?? Russian Federation">
+> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-23 03:01:29 -->
+<!-- Actualizado automáticamente el 2025-10-23 08:39:42 -->
