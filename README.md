@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-24`  
-> 🌍 **País:** `Palau 🇵🇼 (PW)`  
-> 🎉 **Festivo:** `Dia de las Naciones Unidas`  
+> 🌍 **País:** `Zambia 🇿🇲 (ZM)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PW/flat/64.png" height="100px" alt="PW ?? Palau">
+> <img src="https://flagsapi.com/ZM/flat/64.png" height="100px" alt="ZM ?? Zambia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-24 02:58:15 -->
+<!-- Actualizado automáticamente el 2025-10-24 08:37:36 -->
