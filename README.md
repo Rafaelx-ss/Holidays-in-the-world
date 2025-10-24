@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-23`  
-> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
-> 🎉 **Festivo:** `Día del Acuerdo de paz de París`  
+> ✅ **Fecha:** `2025-10-24`  
+> 🌍 **País:** `Palau 🇵🇼 (PW)`  
+> 🎉 **Festivo:** `Dia de las Naciones Unidas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
+> <img src="https://flagsapi.com/PW/flat/64.png" height="100px" alt="PW ?? Palau">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-23 08:39:42 -->
+<!-- Actualizado automáticamente el 2025-10-24 02:58:15 -->
