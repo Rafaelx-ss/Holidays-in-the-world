@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-24`  
-> 🌍 **País:** `Zambia 🇿🇲 (ZM)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-10-25`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Día de mestizo`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ZM/flat/64.png" height="100px" alt="ZM ?? Zambia">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-24 08:37:36 -->
+<!-- Actualizado automáticamente el 2025-10-25 02:59:49 -->
