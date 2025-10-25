@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-25`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Día de mestizo`  
+> 🌍 **País:** `Taiwan 🇹🇼 (TW)`  
+> 🎉 **Festivo:** `Día de la Retrocesión de Taiwán`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/TW/flat/64.png" height="100px" alt="TW ?? Taiwan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-25 02:59:49 -->
+<!-- Actualizado automáticamente el 2025-10-25 08:33:24 -->
