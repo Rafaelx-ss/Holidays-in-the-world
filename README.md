@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-27`  
-> 🌍 **País:** `Kosovo 🇽🇰 (XK)`  
-> 🎉 **Festivo:** `Inicio del horario de invierno`  
+> 🌍 **País:** `Saint Vincent and the Grenadines 🇻🇨 (VC)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/XK/flat/64.png" height="100px" alt="XK ?? Kosovo">
+> <img src="https://flagsapi.com/VC/flat/64.png" height="100px" alt="VC ?? Saint Vincent and the Grenadines">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-27 03:17:47 -->
+<!-- Actualizado automáticamente el 2025-10-27 08:39:54 -->
