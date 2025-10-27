@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-26`  
-> 🌍 **País:** `Austria 🇦🇹 (AT)`  
-> 🎉 **Festivo:** `Día Nacional`  
+> ✅ **Fecha:** `2025-10-27`  
+> 🌍 **País:** `Kosovo 🇽🇰 (XK)`  
+> 🎉 **Festivo:** `Inicio del horario de invierno`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AT/flat/64.png" height="100px" alt="AT ?? Austria">
+> <img src="https://flagsapi.com/XK/flat/64.png" height="100px" alt="XK ?? Kosovo">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-26 08:33:19 -->
+<!-- Actualizado automáticamente el 2025-10-27 03:17:47 -->
