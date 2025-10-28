@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-27`  
-> 🌍 **País:** `Saint Vincent and the Grenadines 🇻🇨 (VC)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-10-28`  
+> 🌍 **País:** `Greece 🇬🇷 (GR)`  
+> 🎉 **Festivo:** `El dia de Ochi`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VC/flat/64.png" height="100px" alt="VC ?? Saint Vincent and the Grenadines">
+> <img src="https://flagsapi.com/GR/flat/64.png" height="100px" alt="GR ?? Greece">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-27 08:39:54 -->
+<!-- Actualizado automáticamente el 2025-10-28 03:05:22 -->
