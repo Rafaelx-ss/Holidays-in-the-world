@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-28`  
-> 🌍 **País:** `Greece 🇬🇷 (GR)`  
-> 🎉 **Festivo:** `El dia de Ochi`  
+> ✅ **Fecha:** `2025-10-29`  
+> 🌍 **País:** `Russian Federation 🇷🇺 (RU)`  
+> 🎉 **Festivo:** `Jornada de servicios de seguridad de la MVD`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GR/flat/64.png" height="100px" alt="GR ?? Greece">
+> <img src="https://flagsapi.com/RU/flat/64.png" height="100px" alt="RU ?? Russian Federation">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-28 08:39:44 -->
+<!-- Actualizado automáticamente el 2025-10-29 03:13:31 -->
