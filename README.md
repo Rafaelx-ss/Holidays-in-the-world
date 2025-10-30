@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-29`  
-> 🌍 **País:** `Mongolia 🇲🇳 (MN)`  
-> 🎉 **Festivo:** `Día de la ciudad capital`  
+> ✅ **Fecha:** `2025-10-30`  
+> 🌍 **País:** `Russian Federation 🇷🇺 (RU)`  
+> 🎉 **Festivo:** `Día del Recuerdo de las Víctimas de las Represiones Políticas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MN/flat/64.png" height="100px" alt="MN ?? Mongolia">
+> <img src="https://flagsapi.com/RU/flat/64.png" height="100px" alt="RU ?? Russian Federation">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-29 08:40:20 -->
+<!-- Actualizado automáticamente el 2025-10-30 03:09:11 -->
