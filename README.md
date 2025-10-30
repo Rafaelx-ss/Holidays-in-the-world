@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-30`  
-> 🌍 **País:** `Russian Federation 🇷🇺 (RU)`  
-> 🎉 **Festivo:** `Día del Recuerdo de las Víctimas de las Represiones Políticas`  
+> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
+> 🎉 **Festivo:** `Día de las finanzas de Indonesia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/RU/flat/64.png" height="100px" alt="RU ?? Russian Federation">
+> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-30 03:09:11 -->
+<!-- Actualizado automáticamente el 2025-10-30 08:38:14 -->
