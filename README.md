@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-30`  
-> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
-> 🎉 **Festivo:** `Día de las finanzas de Indonesia`  
+> ✅ **Fecha:** `2025-10-31`  
+> 🌍 **País:** `Mauritius 🇲🇺 (MU)`  
+> 🎉 **Festivo:** `Diwali`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
+> <img src="https://flagsapi.com/MU/flat/64.png" height="100px" alt="MU ?? Mauritius">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-30 08:38:14 -->
+<!-- Actualizado automáticamente el 2025-10-31 03:08:53 -->
