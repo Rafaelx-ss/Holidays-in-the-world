@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-10-31`  
-> 🌍 **País:** `Mauritius 🇲🇺 (MU)`  
-> 🎉 **Festivo:** `Diwali`  
+> 🌍 **País:** `Denmark 🇩🇰 (DK)`  
+> 🎉 **Festivo:** `Festividad de Todos los Santos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MU/flat/64.png" height="100px" alt="MU ?? Mauritius">
+> <img src="https://flagsapi.com/DK/flat/64.png" height="100px" alt="DK ?? Denmark">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-31 03:08:53 -->
+<!-- Actualizado automáticamente el 2025-10-31 08:37:02 -->
