@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-10-31`  
-> 🌍 **País:** `Denmark 🇩🇰 (DK)`  
-> 🎉 **Festivo:** `Festividad de Todos los Santos`  
+> ✅ **Fecha:** `2025-11-01`  
+> 🌍 **País:** `United States Virgin Islands 🇻🇮 (VI)`  
+> 🎉 **Festivo:** `Dia de la libertad`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DK/flat/64.png" height="100px" alt="DK ?? Denmark">
+> <img src="https://flagsapi.com/VI/flat/64.png" height="100px" alt="VI ?? United States Virgin Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-10-31 08:37:02 -->
+<!-- Actualizado automáticamente el 2025-11-01 03:09:37 -->
