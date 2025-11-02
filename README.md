@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-02`  
-> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
-> 🎉 **Festivo:** `Todo el día de almas`  
+> 🌍 **País:** `Turkmenistan 🇹🇲 (TM)`  
+> 🎉 **Festivo:** `Dia de la salud`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
+> <img src="https://flagsapi.com/TM/flat/64.png" height="100px" alt="TM ?? Turkmenistan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-02 03:13:40 -->
+<!-- Actualizado automáticamente el 2025-11-02 08:32:22 -->
