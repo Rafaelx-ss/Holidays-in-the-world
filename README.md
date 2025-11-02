@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-01`  
-> 🌍 **País:** `Algeria 🇩🇿 (DZ)`  
-> 🎉 **Festivo:** `Día de revolución`  
+> ✅ **Fecha:** `2025-11-02`  
+> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
+> 🎉 **Festivo:** `Todo el día de almas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DZ/flat/64.png" height="100px" alt="DZ ?? Algeria">
+> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-01 08:33:33 -->
+<!-- Actualizado automáticamente el 2025-11-02 03:13:40 -->
