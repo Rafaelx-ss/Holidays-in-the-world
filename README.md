@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-02`  
-> 🌍 **País:** `Turkmenistan 🇹🇲 (TM)`  
-> 🎉 **Festivo:** `Dia de la salud`  
+> ✅ **Fecha:** `2025-11-03`  
+> 🌍 **País:** `Nepal 🇳🇵 (NP)`  
+> 🎉 **Festivo:** `Festival de Tihar`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TM/flat/64.png" height="100px" alt="TM ?? Turkmenistan">
+> <img src="https://flagsapi.com/NP/flat/64.png" height="100px" alt="NP ?? Nepal">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-02 08:32:22 -->
+<!-- Actualizado automáticamente el 2025-11-03 03:15:23 -->
