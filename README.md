@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-03`  
-> 🌍 **País:** `Maldives 🇲🇻 (MV)`  
-> 🎉 **Festivo:** `Dia de Victoria`  
+> ✅ **Fecha:** `2025-11-04`  
+> 🌍 **País:** `Dominica 🇩🇲 (DM)`  
+> 🎉 **Festivo:** `Día de servicio comunitario`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MV/flat/64.png" height="100px" alt="MV ?? Maldives">
+> <img src="https://flagsapi.com/DM/flat/64.png" height="100px" alt="DM ?? Dominica">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-03 08:42:12 -->
+<!-- Actualizado automáticamente el 2025-11-04 03:08:28 -->
