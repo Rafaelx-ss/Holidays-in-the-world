@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-04`  
-> 🌍 **País:** `Dominica 🇩🇲 (DM)`  
-> 🎉 **Festivo:** `Día de servicio comunitario`  
+> 🌍 **País:** `Heard Island and McDonald Islands 🇭🇲 (HM)`  
+> 🎉 **Festivo:** `Dia de recreacion`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/DM/flat/64.png" height="100px" alt="DM ?? Dominica">
+> <img src="https://flagsapi.com/HM/flat/64.png" height="100px" alt="HM ?? Heard Island and McDonald Islands">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-04 03:08:28 -->
+<!-- Actualizado automáticamente el 2025-11-04 08:41:20 -->
