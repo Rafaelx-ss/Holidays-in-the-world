@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-04`  
-> 🌍 **País:** `Heard Island and McDonald Islands 🇭🇲 (HM)`  
-> 🎉 **Festivo:** `Dia de recreacion`  
+> ✅ **Fecha:** `2025-11-05`  
+> 🌍 **País:** `Nepal 🇳🇵 (NP)`  
+> 🎉 **Festivo:** `Tercer día del Festival de Tihar`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HM/flat/64.png" height="100px" alt="HM ?? Heard Island and McDonald Islands">
+> <img src="https://flagsapi.com/NP/flat/64.png" height="100px" alt="NP ?? Nepal">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-04 08:41:20 -->
+<!-- Actualizado automáticamente el 2025-11-05 03:09:47 -->
