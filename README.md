@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-05`  
-> 🌍 **País:** `Nepal 🇳🇵 (NP)`  
-> 🎉 **Festivo:** `Tercer día del Festival de Tihar`  
+> ✅ **Fecha:** `2025-11-06`  
+> 🌍 **País:** `Morocco 🇲🇦 (MA)`  
+> 🎉 **Festivo:** `Marcha verde`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NP/flat/64.png" height="100px" alt="NP ?? Nepal">
+> <img src="https://flagsapi.com/MA/flat/64.png" height="100px" alt="MA ?? Morocco">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-05 08:41:17 -->
+<!-- Actualizado automáticamente el 2025-11-06 03:12:17 -->
