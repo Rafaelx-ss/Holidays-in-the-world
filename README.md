@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-07`  
-> 🌍 **País:** `Kyrgyzstan 🇰🇬 (KG)`  
-> 🎉 **Festivo:** `Historia y conmemoración de antepasados`  
+> 🌍 **País:** `Belarus 🇧🇾 (BY)`  
+> 🎉 **Festivo:** `Día de la revolución de octubre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KG/flat/64.png" height="100px" alt="KG ?? Kyrgyzstan">
+> <img src="https://flagsapi.com/BY/flat/64.png" height="100px" alt="BY ?? Belarus">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-07 03:09:12 -->
+<!-- Actualizado automáticamente el 2025-11-07 08:39:19 -->
