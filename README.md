@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-06`  
-> 🌍 **País:** `Morocco 🇲🇦 (MA)`  
-> 🎉 **Festivo:** `Marcha verde`  
+> ✅ **Fecha:** `2025-11-07`  
+> 🌍 **País:** `Kyrgyzstan 🇰🇬 (KG)`  
+> 🎉 **Festivo:** `Historia y conmemoración de antepasados`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MA/flat/64.png" height="100px" alt="MA ?? Morocco">
+> <img src="https://flagsapi.com/KG/flat/64.png" height="100px" alt="KG ?? Kyrgyzstan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-06 08:39:43 -->
+<!-- Actualizado automáticamente el 2025-11-07 03:09:12 -->
