@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-08`  
-> 🌍 **País:** `Azerbaijan 🇦🇿 (AZ)`  
-> 🎉 **Festivo:** `Día de la victoria de Azerbaiyán`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AZ/flat/64.png" height="100px" alt="AZ ?? Azerbaijan">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-08 03:00:17 -->
+<!-- Actualizado automáticamente el 2025-11-08 08:34:22 -->
