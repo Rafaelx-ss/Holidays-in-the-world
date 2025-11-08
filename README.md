@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-07`  
-> 🌍 **País:** `Belarus 🇧🇾 (BY)`  
-> 🎉 **Festivo:** `Día de la revolución de octubre`  
+> ✅ **Fecha:** `2025-11-08`  
+> 🌍 **País:** `Azerbaijan 🇦🇿 (AZ)`  
+> 🎉 **Festivo:** `Día de la victoria de Azerbaiyán`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BY/flat/64.png" height="100px" alt="BY ?? Belarus">
+> <img src="https://flagsapi.com/AZ/flat/64.png" height="100px" alt="AZ ?? Azerbaijan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-07 08:39:19 -->
+<!-- Actualizado automáticamente el 2025-11-08 03:00:17 -->
