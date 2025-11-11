@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-10`  
-> 🌍 **País:** `Estonia 🇪🇪 (EE)`  
-> 🎉 **Festivo:** `Día del Padre`  
+> ✅ **Fecha:** `2025-11-11`  
+> 🌍 **País:** `Bermuda 🇧🇲 (BM)`  
+> 🎉 **Festivo:** `Día de la conmemoración`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/EE/flat/64.png" height="100px" alt="EE ?? Estonia">
+> <img src="https://flagsapi.com/BM/flat/64.png" height="100px" alt="BM ?? Bermuda">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-10 08:41:36 -->
+<!-- Actualizado automáticamente el 2025-11-11 03:12:04 -->
