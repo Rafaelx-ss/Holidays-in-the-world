@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-14`  
-> 🌍 **País:** `Guinea-Bissau 🇬🇼 (GW)`  
-> 🎉 **Festivo:** `Aniversario del Movimiento de Reajuste`  
+> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
+> 🎉 **Festivo:** `Dia mundial de la diabetes`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GW/flat/64.png" height="100px" alt="GW ?? Guinea-Bissau">
+> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-14 03:11:01 -->
+<!-- Actualizado automáticamente el 2025-11-14 08:38:30 -->
