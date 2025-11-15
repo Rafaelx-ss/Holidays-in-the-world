@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-14`  
-> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
-> 🎉 **Festivo:** `Dia mundial de la diabetes`  
+> ✅ **Fecha:** `2025-11-15`  
+> 🌍 **País:** `Myanmar 🇲🇲 (MM)`  
+> 🎉 **Festivo:** `Día de luna llena de Tazaungmone`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
+> <img src="https://flagsapi.com/MM/flat/64.png" height="100px" alt="MM ?? Myanmar">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-14 08:38:30 -->
+<!-- Actualizado automáticamente el 2025-11-15 03:05:04 -->
