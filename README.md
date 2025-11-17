@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-16`  
-> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
-> 🎉 **Festivo:** `Día de la Madre`  
+> ✅ **Fecha:** `2025-11-17`  
+> 🌍 **País:** `Slovakia 🇸🇰 (SK)`  
+> 🎉 **Festivo:** `Día de la libertad y la democracia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
+> <img src="https://flagsapi.com/SK/flat/64.png" height="100px" alt="SK ?? Slovakia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-16 08:35:10 -->
+<!-- Actualizado automáticamente el 2025-11-17 03:14:14 -->
