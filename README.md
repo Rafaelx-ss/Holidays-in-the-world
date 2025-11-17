@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-17`  
-> 🌍 **País:** `Slovakia 🇸🇰 (SK)`  
-> 🎉 **Festivo:** `Día de la libertad y la democracia`  
+> 🌍 **País:** `Greece 🇬🇷 (GR)`  
+> 🎉 **Festivo:** `Politecneio`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SK/flat/64.png" height="100px" alt="SK ?? Slovakia">
+> <img src="https://flagsapi.com/GR/flat/64.png" height="100px" alt="GR ?? Greece">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-17 03:14:14 -->
+<!-- Actualizado automáticamente el 2025-11-17 08:43:13 -->
