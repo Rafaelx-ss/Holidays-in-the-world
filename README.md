@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-18`  
-> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
-> 🎉 **Festivo:** `Día nacional de la soberanía`  
+> 🌍 **País:** `Croatia 🇭🇷 (HR)`  
+> 🎉 **Festivo:** `Día de la conmemoración`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
+> <img src="https://flagsapi.com/HR/flat/64.png" height="100px" alt="HR ?? Croatia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-18 03:10:22 -->
+<!-- Actualizado automáticamente el 2025-11-18 08:40:36 -->
