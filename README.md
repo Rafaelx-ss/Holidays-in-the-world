@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-17`  
-> 🌍 **País:** `Greece 🇬🇷 (GR)`  
-> 🎉 **Festivo:** `Politecneio`  
+> ✅ **Fecha:** `2025-11-18`  
+> 🌍 **País:** `Argentina 🇦🇷 (AR)`  
+> 🎉 **Festivo:** `Día nacional de la soberanía`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GR/flat/64.png" height="100px" alt="GR ?? Greece">
+> <img src="https://flagsapi.com/AR/flat/64.png" height="100px" alt="AR ?? Argentina">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-17 08:43:13 -->
+<!-- Actualizado automáticamente el 2025-11-18 03:10:22 -->
