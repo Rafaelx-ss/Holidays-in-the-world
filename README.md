@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-19`  
-> 🌍 **País:** `Puerto Rico 🇵🇷 (PR)`  
-> 🎉 **Festivo:** `Día del descubrimiento de Puerto Rico`  
+> 🌍 **País:** `Belize 🇧🇿 (BZ)`  
+> 🎉 **Festivo:** `Día de Asentamiento Garifuna`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PR/flat/64.png" height="100px" alt="PR ?? Puerto Rico">
+> <img src="https://flagsapi.com/BZ/flat/64.png" height="100px" alt="BZ ?? Belize">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-19 03:09:45 -->
+<!-- Actualizado automáticamente el 2025-11-19 08:39:44 -->
