@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-18`  
-> 🌍 **País:** `Croatia 🇭🇷 (HR)`  
-> 🎉 **Festivo:** `Día de la conmemoración`  
+> ✅ **Fecha:** `2025-11-19`  
+> 🌍 **País:** `Puerto Rico 🇵🇷 (PR)`  
+> 🎉 **Festivo:** `Día del descubrimiento de Puerto Rico`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HR/flat/64.png" height="100px" alt="HR ?? Croatia">
+> <img src="https://flagsapi.com/PR/flat/64.png" height="100px" alt="PR ?? Puerto Rico">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-18 08:40:36 -->
+<!-- Actualizado automáticamente el 2025-11-19 03:09:45 -->
