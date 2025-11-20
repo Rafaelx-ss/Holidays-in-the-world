@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-20`  
-> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
-> 🎉 **Festivo:** `Día de la Conciencia Negra`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Royal Navy Navy Day`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-20 03:08:00 -->
+<!-- Actualizado automáticamente el 2025-11-20 08:41:22 -->
