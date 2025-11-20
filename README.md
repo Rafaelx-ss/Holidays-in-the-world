@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-19`  
-> 🌍 **País:** `Belize 🇧🇿 (BZ)`  
-> 🎉 **Festivo:** `Día de Asentamiento Garifuna`  
+> ✅ **Fecha:** `2025-11-20`  
+> 🌍 **País:** `Brazil 🇧🇷 (BR)`  
+> 🎉 **Festivo:** `Día de la Conciencia Negra`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BZ/flat/64.png" height="100px" alt="BZ ?? Belize">
+> <img src="https://flagsapi.com/BR/flat/64.png" height="100px" alt="BR ?? Brazil">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-19 08:39:44 -->
+<!-- Actualizado automáticamente el 2025-11-20 03:08:00 -->
