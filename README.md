@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-20`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Royal Navy Navy Day`  
+> ✅ **Fecha:** `2025-11-21`  
+> 🌍 **País:** `El Salvador 🇸🇻 (SV)`  
+> 🎉 **Festivo:** `Dia de la reina de la paz`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/SV/flat/64.png" height="100px" alt="SV ?? El Salvador">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-20 08:41:22 -->
+<!-- Actualizado automáticamente el 2025-11-21 03:08:53 -->
