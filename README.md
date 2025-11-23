@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-22`  
-> 🌍 **País:** `Lebanon 🇱🇧 (LB)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-11-23`  
+> 🌍 **País:** `Slovenia 🇸🇮 (SI)`  
+> 🎉 **Festivo:** `Rudolf Maister Day`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/LB/flat/64.png" height="100px" alt="LB ?? Lebanon">
+> <img src="https://flagsapi.com/SI/flat/64.png" height="100px" alt="SI ?? Slovenia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-22 08:35:12 -->
+<!-- Actualizado automáticamente el 2025-11-23 03:25:29 -->
