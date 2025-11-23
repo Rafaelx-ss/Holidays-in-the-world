@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-23`  
-> 🌍 **País:** `Slovenia 🇸🇮 (SI)`  
-> 🎉 **Festivo:** `Rudolf Maister Day`  
+> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
+> 🎉 **Festivo:** `Día de la marina mexicana`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/SI/flat/64.png" height="100px" alt="SI ?? Slovenia">
+> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-23 03:25:29 -->
+<!-- Actualizado automáticamente el 2025-11-23 08:35:34 -->
