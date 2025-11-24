@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-24`  
-> 🌍 **País:** `Russian Federation 🇷🇺 (RU)`  
-> 🎉 **Festivo:** `Día de la Madre`  
+> 🌍 **País:** `Turkmenistan 🇹🇲 (TM)`  
+> 🎉 **Festivo:** `Fiesta de la cosecha`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/RU/flat/64.png" height="100px" alt="RU ?? Russian Federation">
+> <img src="https://flagsapi.com/TM/flat/64.png" height="100px" alt="TM ?? Turkmenistan">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-24 03:21:54 -->
+<!-- Actualizado automáticamente el 2025-11-24 08:43:31 -->
