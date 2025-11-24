@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-23`  
-> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
-> 🎉 **Festivo:** `Día de la marina mexicana`  
+> ✅ **Fecha:** `2025-11-24`  
+> 🌍 **País:** `Russian Federation 🇷🇺 (RU)`  
+> 🎉 **Festivo:** `Día de la Madre`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
+> <img src="https://flagsapi.com/RU/flat/64.png" height="100px" alt="RU ?? Russian Federation">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-23 08:35:34 -->
+<!-- Actualizado automáticamente el 2025-11-24 03:21:54 -->
