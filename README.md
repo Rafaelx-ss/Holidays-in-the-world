@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-24`  
-> 🌍 **País:** `Turkmenistan 🇹🇲 (TM)`  
-> 🎉 **Festivo:** `Fiesta de la cosecha`  
+> ✅ **Fecha:** `2025-11-25`  
+> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
+> 🎉 **Festivo:** `Día del Maestro`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TM/flat/64.png" height="100px" alt="TM ?? Turkmenistan">
+> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-24 08:43:31 -->
+<!-- Actualizado automáticamente el 2025-11-25 03:13:20 -->
