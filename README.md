@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-27`  
-> 🌍 **País:** `Norfolk Island 🇳🇫 (NF)`  
-> 🎉 **Festivo:** `Día de Gracias`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Día nacional de fomento de la salud`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NF/flat/64.png" height="100px" alt="NF ?? Norfolk Island">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-27 03:09:56 -->
+<!-- Actualizado automáticamente el 2025-11-27 08:42:25 -->
