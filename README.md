@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-28`  
-> 🌍 **País:** `United States 🇺🇸 (US)`  
-> 🎉 **Festivo:** `Día de Gracias`  
+> 🌍 **País:** `Chad 🇹🇩 (TD)`  
+> 🎉 **Festivo:** `Día de la república`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
+> <img src="https://flagsapi.com/TD/flat/64.png" height="100px" alt="TD ?? Chad">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-28 03:09:21 -->
+<!-- Actualizado automáticamente el 2025-11-28 08:42:36 -->
