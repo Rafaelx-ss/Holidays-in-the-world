@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-27`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Día nacional de fomento de la salud`  
+> ✅ **Fecha:** `2025-11-28`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Día de Gracias`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-27 08:42:25 -->
+<!-- Actualizado automáticamente el 2025-11-28 03:09:21 -->
