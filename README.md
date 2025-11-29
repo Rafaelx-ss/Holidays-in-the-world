@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-29`  
-> 🌍 **País:** `Vanuatu 🇻🇺 (VU)`  
-> 🎉 **Festivo:** `Dia de la unidad`  
+> 🌍 **País:** `Poland 🇵🇱 (PL)`  
+> 🎉 **Festivo:** `Dia de san andrés`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VU/flat/64.png" height="100px" alt="VU ?? Vanuatu">
+> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-29 03:09:45 -->
+<!-- Actualizado automáticamente el 2025-11-29 08:36:48 -->
