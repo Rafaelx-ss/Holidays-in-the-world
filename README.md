@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-28`  
-> 🌍 **País:** `Chad 🇹🇩 (TD)`  
-> 🎉 **Festivo:** `Día de la república`  
+> ✅ **Fecha:** `2025-11-29`  
+> 🌍 **País:** `Vanuatu 🇻🇺 (VU)`  
+> 🎉 **Festivo:** `Dia de la unidad`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TD/flat/64.png" height="100px" alt="TD ?? Chad">
+> <img src="https://flagsapi.com/VU/flat/64.png" height="100px" alt="VU ?? Vanuatu">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-28 08:42:36 -->
+<!-- Actualizado automáticamente el 2025-11-29 03:09:45 -->
