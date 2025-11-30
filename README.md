@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-29`  
-> 🌍 **País:** `Poland 🇵🇱 (PL)`  
-> 🎉 **Festivo:** `Dia de san andrés`  
+> ✅ **Fecha:** `2025-11-30`  
+> 🌍 **País:** `Philippines 🇵🇭 (PH)`  
+> 🎉 **Festivo:** `Bonifacio Day`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PL/flat/64.png" height="100px" alt="PL ?? Poland">
+> <img src="https://flagsapi.com/PH/flat/64.png" height="100px" alt="PH ?? Philippines">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-29 08:36:48 -->
+<!-- Actualizado automáticamente el 2025-11-30 03:24:53 -->
