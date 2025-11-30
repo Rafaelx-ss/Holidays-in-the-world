@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-11-30`  
-> 🌍 **País:** `Philippines 🇵🇭 (PH)`  
-> 🎉 **Festivo:** `Bonifacio Day`  
+> 🌍 **País:** `Barbados 🇧🇧 (BB)`  
+> 🎉 **Festivo:** `Día de la Independencia`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/PH/flat/64.png" height="100px" alt="PH ?? Philippines">
+> <img src="https://flagsapi.com/BB/flat/64.png" height="100px" alt="BB ?? Barbados">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-30 03:24:53 -->
+<!-- Actualizado automáticamente el 2025-11-30 08:35:06 -->
