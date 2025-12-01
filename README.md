@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-11-30`  
-> 🌍 **País:** `Barbados 🇧🇧 (BB)`  
-> 🎉 **Festivo:** `Día de la Independencia`  
+> ✅ **Fecha:** `2025-12-01`  
+> 🌍 **País:** `United Arab Emirates 🇦🇪 (AE)`  
+> 🎉 **Festivo:** `Dia de conmemoración`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BB/flat/64.png" height="100px" alt="BB ?? Barbados">
+> <img src="https://flagsapi.com/AE/flat/64.png" height="100px" alt="AE ?? United Arab Emirates">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-11-30 08:35:06 -->
+<!-- Actualizado automáticamente el 2025-12-01 03:48:56 -->
