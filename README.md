@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-01`  
-> 🌍 **País:** `United Arab Emirates 🇦🇪 (AE)`  
-> 🎉 **Festivo:** `Dia de conmemoración`  
+> 🌍 **País:** `Central African Republic 🇨🇫 (CF)`  
+> 🎉 **Festivo:** `Día de la república`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AE/flat/64.png" height="100px" alt="AE ?? United Arab Emirates">
+> <img src="https://flagsapi.com/CF/flat/64.png" height="100px" alt="CF ?? Central African Republic">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-01 03:48:56 -->
+<!-- Actualizado automáticamente el 2025-12-01 08:46:23 -->
