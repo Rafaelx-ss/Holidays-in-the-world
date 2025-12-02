@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-01`  
-> 🌍 **País:** `Central African Republic 🇨🇫 (CF)`  
-> 🎉 **Festivo:** `Día de la república`  
+> ✅ **Fecha:** `2025-12-02`  
+> 🌍 **País:** `Philippines 🇵🇭 (PH)`  
+> 🎉 **Festivo:** `Día de los padres`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CF/flat/64.png" height="100px" alt="CF ?? Central African Republic">
+> <img src="https://flagsapi.com/PH/flat/64.png" height="100px" alt="PH ?? Philippines">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-01 08:46:23 -->
+<!-- Actualizado automáticamente el 2025-12-02 03:16:28 -->
