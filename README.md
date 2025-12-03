@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-02`  
-> 🌍 **País:** `United Arab Emirates 🇦🇪 (AE)`  
-> 🎉 **Festivo:** `Día Nacional`  
+> ✅ **Fecha:** `2025-12-03`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AE/flat/64.png" height="100px" alt="AE ?? United Arab Emirates">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-02 08:45:11 -->
+<!-- Actualizado automáticamente el 2025-12-03 03:15:38 -->
