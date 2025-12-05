@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-05`  
-> 🌍 **País:** `Haiti 🇭🇹 (HT)`  
-> 🎉 **Festivo:** `Día de descubrimiento`  
+> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
+> 🎉 **Festivo:** `Nacimiento del rey Bhumibol Adulyadej`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HT/flat/64.png" height="100px" alt="HT ?? Haiti">
+> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-05 03:17:16 -->
+<!-- Actualizado automáticamente el 2025-12-05 08:41:39 -->
