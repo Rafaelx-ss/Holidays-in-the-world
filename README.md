@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-04`  
-> 🌍 **País:** `Tonga 🇹🇴 (TO)`  
-> 🎉 **Festivo:** `Coronación del Rey Tupou I`  
+> ✅ **Fecha:** `2025-12-05`  
+> 🌍 **País:** `Haiti 🇭🇹 (HT)`  
+> 🎉 **Festivo:** `Día de descubrimiento`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TO/flat/64.png" height="100px" alt="TO ?? Tonga">
+> <img src="https://flagsapi.com/HT/flat/64.png" height="100px" alt="HT ?? Haiti">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-04 08:44:09 -->
+<!-- Actualizado automáticamente el 2025-12-05 03:17:16 -->
