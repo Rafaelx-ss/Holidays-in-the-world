@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-05`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Nacimiento del rey Bhumibol Adulyadej`  
+> ✅ **Fecha:** `2025-12-06`  
+> 🌍 **País:** `Spain 🇪🇸 (ES)`  
+> 🎉 **Festivo:** `Día de la Constitución Española`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/ES/flat/64.png" height="100px" alt="ES ?? Spain">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-05 08:41:39 -->
+<!-- Actualizado automáticamente el 2025-12-06 03:07:38 -->
