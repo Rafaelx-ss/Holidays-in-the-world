@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-07`  
-> 🌍 **País:** `Colombia 🇨🇴 (CO)`  
-> 🎉 **Festivo:** `Fiesta de la víspera de la Inmaculada Concepción`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CO/flat/64.png" height="100px" alt="CO ?? Colombia">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-07 03:25:35 -->
+<!-- Actualizado automáticamente el 2025-12-07 08:35:44 -->
