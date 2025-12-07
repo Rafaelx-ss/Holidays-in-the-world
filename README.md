@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-06`  
-> 🌍 **País:** `Belgium 🇧🇪 (BE)`  
-> 🎉 **Festivo:** `Dia de san nicolás`  
+> ✅ **Fecha:** `2025-12-07`  
+> 🌍 **País:** `Colombia 🇨🇴 (CO)`  
+> 🎉 **Festivo:** `Fiesta de la víspera de la Inmaculada Concepción`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BE/flat/64.png" height="100px" alt="BE ?? Belgium">
+> <img src="https://flagsapi.com/CO/flat/64.png" height="100px" alt="CO ?? Colombia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-06 08:36:23 -->
+<!-- Actualizado automáticamente el 2025-12-07 03:25:35 -->
