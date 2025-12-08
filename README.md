@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-08`  
-> 🌍 **País:** `Austria 🇦🇹 (AT)`  
+> 🌍 **País:** `Costa Rica 🇨🇷 (CR)`  
 > 🎉 **Festivo:** `Inmaculada Concepción`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/AT/flat/64.png" height="100px" alt="AT ?? Austria">
+> <img src="https://flagsapi.com/CR/flat/64.png" height="100px" alt="CR ?? Costa Rica">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-08 03:19:39 -->
+<!-- Actualizado automáticamente el 2025-12-08 08:46:08 -->
