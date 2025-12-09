@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-09`  
-> 🌍 **País:** `North Macedonia 🇲🇰 (MK)`  
-> 🎉 **Festivo:** `Día de San Clemente de Ohrid`  
+> 🌍 **País:** `Equatorial Guinea 🇬🇶 (GQ)`  
+> 🎉 **Festivo:** `Inmaculada Concepción`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MK/flat/64.png" height="100px" alt="MK ?? North Macedonia">
+> <img src="https://flagsapi.com/GQ/flat/64.png" height="100px" alt="GQ ?? Equatorial Guinea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-09 03:16:56 -->
+<!-- Actualizado automáticamente el 2025-12-09 08:44:44 -->
