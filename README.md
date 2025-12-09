@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-08`  
-> 🌍 **País:** `Costa Rica 🇨🇷 (CR)`  
-> 🎉 **Festivo:** `Inmaculada Concepción`  
+> ✅ **Fecha:** `2025-12-09`  
+> 🌍 **País:** `North Macedonia 🇲🇰 (MK)`  
+> 🎉 **Festivo:** `Día de San Clemente de Ohrid`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CR/flat/64.png" height="100px" alt="CR ?? Costa Rica">
+> <img src="https://flagsapi.com/MK/flat/64.png" height="100px" alt="MK ?? North Macedonia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-08 08:46:08 -->
+<!-- Actualizado automáticamente el 2025-12-09 03:16:56 -->
