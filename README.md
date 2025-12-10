@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-10`  
-> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
+> 🌍 **País:** `Equatorial Guinea 🇬🇶 (GQ)`  
 > 🎉 **Festivo:** `Día de los Derechos Humanos`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
+> <img src="https://flagsapi.com/GQ/flat/64.png" height="100px" alt="GQ ?? Equatorial Guinea">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-10 03:20:58 -->
+<!-- Actualizado automáticamente el 2025-12-10 08:44:12 -->
