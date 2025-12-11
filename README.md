@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-11`  
-> 🌍 **País:** `Kiribati 🇰🇮 (KI)`  
-> 🎉 **Festivo:** `Día de los derechos humanos y la paz`  
+> 🌍 **País:** `Burkina Faso 🇧🇫 (BF)`  
+> 🎉 **Festivo:** `Proclamación de la República`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KI/flat/64.png" height="100px" alt="KI ?? Kiribati">
+> <img src="https://flagsapi.com/BF/flat/64.png" height="100px" alt="BF ?? Burkina Faso">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-11 03:22:44 -->
+<!-- Actualizado automáticamente el 2025-12-11 08:44:52 -->
