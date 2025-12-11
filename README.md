@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-10`  
-> 🌍 **País:** `Equatorial Guinea 🇬🇶 (GQ)`  
-> 🎉 **Festivo:** `Día de los Derechos Humanos`  
+> ✅ **Fecha:** `2025-12-11`  
+> 🌍 **País:** `Kiribati 🇰🇮 (KI)`  
+> 🎉 **Festivo:** `Día de los derechos humanos y la paz`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GQ/flat/64.png" height="100px" alt="GQ ?? Equatorial Guinea">
+> <img src="https://flagsapi.com/KI/flat/64.png" height="100px" alt="KI ?? Kiribati">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-10 08:44:12 -->
+<!-- Actualizado automáticamente el 2025-12-11 03:22:44 -->
