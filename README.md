@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-12`  
-> 🌍 **País:** `Kenya 🇰🇪 (KE)`  
-> 🎉 **Festivo:** `Día de Jamhuri`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Fiesta de Nuestra Señora Guadalupe`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KE/flat/64.png" height="100px" alt="KE ?? Kenya">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-12 03:21:57 -->
+<!-- Actualizado automáticamente el 2025-12-12 08:45:13 -->
