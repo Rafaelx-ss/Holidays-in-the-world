@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-11`  
-> 🌍 **País:** `Burkina Faso 🇧🇫 (BF)`  
-> 🎉 **Festivo:** `Proclamación de la República`  
+> ✅ **Fecha:** `2025-12-12`  
+> 🌍 **País:** `Kenya 🇰🇪 (KE)`  
+> 🎉 **Festivo:** `Día de Jamhuri`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/BF/flat/64.png" height="100px" alt="BF ?? Burkina Faso">
+> <img src="https://flagsapi.com/KE/flat/64.png" height="100px" alt="KE ?? Kenya">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-11 08:44:52 -->
+<!-- Actualizado automáticamente el 2025-12-12 03:21:57 -->
