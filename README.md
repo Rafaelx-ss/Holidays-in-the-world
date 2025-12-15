@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-14`  
-> 🌍 **País:** `N/A 🏳 (N/A)`  
-> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
+> ✅ **Fecha:** `2025-12-15`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Día de la Declaración de Derechos`  
 > 🔰 **Bandera:**
 > 
-> <img src="" height="100px" alt="N/A ?? N/A">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-14 08:37:45 -->
+<!-- Actualizado automáticamente el 2025-12-15 03:28:20 -->
