@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-15`  
-> 🌍 **País:** `Indonesia 🇮🇩 (ID)`  
-> 🎉 **Festivo:** `Día del ejército indonesio`  
+> ✅ **Fecha:** `2025-12-16`  
+> 🌍 **País:** `Bangladesh 🇧🇩 (BD)`  
+> 🎉 **Festivo:** `Dia de Victoria`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ID/flat/64.png" height="100px" alt="ID ?? Indonesia">
+> <img src="https://flagsapi.com/BD/flat/64.png" height="100px" alt="BD ?? Bangladesh">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-15 08:47:40 -->
+<!-- Actualizado automáticamente el 2025-12-16 03:22:21 -->
