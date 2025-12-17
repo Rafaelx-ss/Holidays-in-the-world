@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-16`  
-> 🌍 **País:** `Thailand 🇹🇭 (TH)`  
-> 🎉 **Festivo:** `Dia nacional del deporte`  
+> ✅ **Fecha:** `2025-12-17`  
+> 🌍 **País:** `Bahrain 🇧🇭 (BH)`  
+> 🎉 **Festivo:** `Día de la adhesión`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/TH/flat/64.png" height="100px" alt="TH ?? Thailand">
+> <img src="https://flagsapi.com/BH/flat/64.png" height="100px" alt="BH ?? Bahrain">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-16 08:46:10 -->
+<!-- Actualizado automáticamente el 2025-12-17 03:18:05 -->
