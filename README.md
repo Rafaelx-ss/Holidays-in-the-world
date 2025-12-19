@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-18`  
-> 🌍 **País:** `Niger 🇳🇪 (NE)`  
-> 🎉 **Festivo:** `Día de la República de Nigeria`  
+> ✅ **Fecha:** `2025-12-19`  
+> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
+> 🎉 **Festivo:** `Cuarto día de las posadas`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/NE/flat/64.png" height="100px" alt="NE ?? Niger">
+> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-18 08:45:02 -->
+<!-- Actualizado automáticamente el 2025-12-19 03:21:56 -->
