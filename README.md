@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-20`  
-> 🌍 **País:** `Réunion 🇷🇪 (RE)`  
-> 🎉 **Festivo:** `Abolición de la esclavitud`  
+> 🌍 **País:** `Macao 🇲🇴 (MO)`  
+> 🎉 **Festivo:** `Día Especial de Establecimiento de la Región Administrativa`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/RE/flat/64.png" height="100px" alt="RE ?? Réunion">
+> <img src="https://flagsapi.com/MO/flat/64.png" height="100px" alt="MO ?? Macao">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-20 03:13:38 -->
+<!-- Actualizado automáticamente el 2025-12-20 08:37:59 -->
