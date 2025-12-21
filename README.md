@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-21`  
-> 🌍 **País:** `Latvia 🇱🇻 (LV)`  
+> 🌍 **País:** `Croatia 🇭🇷 (HR)`  
 > 🎉 **Festivo:** `Solsticio de invierno`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/LV/flat/64.png" height="100px" alt="LV ?? Latvia">
+> <img src="https://flagsapi.com/HR/flat/64.png" height="100px" alt="HR ?? Croatia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-21 03:27:36 -->
+<!-- Actualizado automáticamente el 2025-12-21 08:38:27 -->
