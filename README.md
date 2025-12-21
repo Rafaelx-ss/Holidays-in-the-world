@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-20`  
-> 🌍 **País:** `Macao 🇲🇴 (MO)`  
-> 🎉 **Festivo:** `Día Especial de Establecimiento de la Región Administrativa`  
+> ✅ **Fecha:** `2025-12-21`  
+> 🌍 **País:** `Latvia 🇱🇻 (LV)`  
+> 🎉 **Festivo:** `Solsticio de invierno`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MO/flat/64.png" height="100px" alt="MO ?? Macao">
+> <img src="https://flagsapi.com/LV/flat/64.png" height="100px" alt="LV ?? Latvia">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-20 08:37:59 -->
+<!-- Actualizado automáticamente el 2025-12-21 03:27:36 -->
