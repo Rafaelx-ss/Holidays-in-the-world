@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-21`  
-> 🌍 **País:** `Croatia 🇭🇷 (HR)`  
-> 🎉 **Festivo:** `Solsticio de invierno`  
+> ✅ **Fecha:** `2025-12-22`  
+> 🌍 **País:** `Norway 🇳🇴 (NO)`  
+> 🎉 **Festivo:** `Cuarto domingo de adviento`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/HR/flat/64.png" height="100px" alt="HR ?? Croatia">
+> <img src="https://flagsapi.com/NO/flat/64.png" height="100px" alt="NO ?? Norway">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-21 08:38:27 -->
+<!-- Actualizado automáticamente el 2025-12-22 03:40:49 -->
