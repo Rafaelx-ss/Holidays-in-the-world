@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-22`  
-> 🌍 **País:** `Vietnam 🇻🇳 (VN)`  
-> 🎉 **Festivo:** `Dia de la defensa nacional`  
+> ✅ **Fecha:** `2025-12-23`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/VN/flat/64.png" height="100px" alt="VN ?? Vietnam">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-22 08:45:41 -->
+<!-- Actualizado automáticamente el 2025-12-23 03:24:41 -->
