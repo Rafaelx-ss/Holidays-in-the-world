@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-24`  
-> 🌍 **País:** `Guadeloupe 🇬🇵 (GP)`  
+> 🌍 **País:** `Democratic Republic of the Congo 🇨🇩 (CD)`  
 > 🎉 **Festivo:** `Nochebuena`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/GP/flat/64.png" height="100px" alt="GP ?? Guadeloupe">
+> <img src="https://flagsapi.com/CD/flat/64.png" height="100px" alt="CD ?? Democratic Republic of the Congo">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-24 03:21:59 -->
+<!-- Actualizado automáticamente el 2025-12-24 08:44:35 -->
