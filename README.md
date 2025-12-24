@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-23`  
-> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
-> 🎉 **Festivo:** `Octavo día de las posadas`  
+> ✅ **Fecha:** `2025-12-24`  
+> 🌍 **País:** `Guadeloupe 🇬🇵 (GP)`  
+> 🎉 **Festivo:** `Nochebuena`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
+> <img src="https://flagsapi.com/GP/flat/64.png" height="100px" alt="GP ?? Guadeloupe">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-23 08:44:54 -->
+<!-- Actualizado automáticamente el 2025-12-24 03:21:59 -->
