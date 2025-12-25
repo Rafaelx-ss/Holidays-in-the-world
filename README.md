@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-24`  
-> 🌍 **País:** `Democratic Republic of the Congo 🇨🇩 (CD)`  
-> 🎉 **Festivo:** `Nochebuena`  
+> ✅ **Fecha:** `2025-12-25`  
+> 🌍 **País:** `Philippines 🇵🇭 (PH)`  
+> 🎉 **Festivo:** `Navidad`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/CD/flat/64.png" height="100px" alt="CD ?? Democratic Republic of the Congo">
+> <img src="https://flagsapi.com/PH/flat/64.png" height="100px" alt="PH ?? Philippines">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-24 08:44:35 -->
+<!-- Actualizado automáticamente el 2025-12-25 03:24:52 -->
