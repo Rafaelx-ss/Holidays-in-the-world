@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-26`  
-> 🌍 **País:** `Falkland Islands 🇫🇰 (FK)`  
-> 🎉 **Festivo:** `Dia del boxeo`  
+> ✅ **Fecha:** `2025-12-27`  
+> 🌍 **País:** `Israel 🇮🇱 (IL)`  
+> 🎉 **Festivo:** `Segundo día de Janucá`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/FK/flat/64.png" height="100px" alt="FK ?? Falkland Islands">
+> <img src="https://flagsapi.com/IL/flat/64.png" height="100px" alt="IL ?? Israel">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-26 08:42:37 -->
+<!-- Actualizado automáticamente el 2025-12-27 03:21:34 -->
