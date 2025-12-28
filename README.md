@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-28`  
-> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
-> 🎉 **Festivo:** `Dia de los inocentes`  
+> 🌍 **País:** `United States 🇺🇸 (US)`  
+> 🎉 **Festivo:** `Tercer día de Kwanzaa`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
+> <img src="https://flagsapi.com/US/flat/64.png" height="100px" alt="US ?? United States">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-28 03:45:46 -->
+<!-- Actualizado automáticamente el 2025-12-28 08:39:47 -->
