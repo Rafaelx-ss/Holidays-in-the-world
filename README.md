@@ -6,12 +6,12 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2025-12-27`  
-> 🌍 **País:** `North Korea 🇰🇵 (KP)`  
-> 🎉 **Festivo:** `Día de la Constitución`  
+> ✅ **Fecha:** `2025-12-28`  
+> 🌍 **País:** `Mexico 🇲🇽 (MX)`  
+> 🎉 **Festivo:** `Dia de los inocentes`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KP/flat/64.png" height="100px" alt="KP ?? North Korea">
+> <img src="https://flagsapi.com/MX/flat/64.png" height="100px" alt="MX ?? Mexico">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-27 08:39:34 -->
+<!-- Actualizado automáticamente el 2025-12-28 03:45:46 -->
