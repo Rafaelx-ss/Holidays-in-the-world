@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-29`  
-> 🌍 **País:** `Cambodia 🇰🇭 (KH)`  
-> 🎉 **Festivo:** `Día de paz`  
+> 🌍 **País:** `N/A 🏳 (N/A)`  
+> 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/KH/flat/64.png" height="100px" alt="KH ?? Cambodia">
+> <img src="" height="100px" alt="N/A ?? N/A">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-29 03:47:00 -->
+<!-- Actualizado automáticamente el 2025-12-29 08:47:15 -->
