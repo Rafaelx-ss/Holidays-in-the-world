@@ -7,11 +7,11 @@
 
 ## 📅 Último Festivo Encontrado
 > ✅ **Fecha:** `2025-12-31`  
-> 🌍 **País:** `Montenegro 🇲🇪 (ME)`  
+> 🌍 **País:** `Greenland 🇬🇱 (GL)`  
 > 🎉 **Festivo:** `Nochevieja`  
 > 🔰 **Bandera:**
 > 
-> <img src="https://flagsapi.com/ME/flat/64.png" height="100px" alt="ME ?? Montenegro">
+> <img src="https://flagsapi.com/GL/flat/64.png" height="100px" alt="GL ?? Greenland">
 
 *(Este dato se actualiza diariamente con un commit automático.)*
 
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2025-12-31 03:24:43 -->
+<!-- Actualizado automáticamente el 2025-12-31 08:44:39 -->
