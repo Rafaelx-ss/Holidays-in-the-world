@@ -6,7 +6,7 @@
 ---
 
 ## 📅 Último Festivo Encontrado
-> ✅ **Fecha:** `2026-05-05`  
+> ✅ **Fecha:** `2026-05-06`  
 > 🌍 **País:** `N/A 🏳 (N/A)`  
 > 🎉 **Festivo:** `No hay festivos registrados en la base de datos.`  
 > 🔰 **Bandera:**
@@ -27,4 +27,4 @@
 📝 *Este proyecto es parte de una automatización para registrar festividades globales.*  
 🌟 **¡No olvides dar ⭐️ al repo si te gusta!** 🚀
 
-<!-- Actualizado automáticamente el 2026-05-05 10:12:05 -->
+<!-- Actualizado automáticamente el 2026-05-06 05:27:32 -->
